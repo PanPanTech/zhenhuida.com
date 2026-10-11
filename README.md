@@ -25,9 +25,27 @@ npm run start      # serve out/ locally
 | Phone / WhatsApp / Telegram, public email, address | `lib/catalog.ts` → `messenger`, `contact` |
 | Page layouts and text | `components/pages.tsx`, `components/detail-pages.tsx`, `components/site-shell.tsx` |
 | Inquiry form | `components/inquiry-form.tsx` |
+| Blog posts | `content/blog/*.json` |
+| Search console verification codes | `lib/catalog.ts` → `siteVerification` |
 | Expo photos | `public/images/expo/` |
 | Languages | `lib/i18n.ts` |
 | Canonical domain | `lib/catalog.ts` → `origin`; `public/CNAME` |
+
+## Publishing a blog post
+
+1. Copy `content/blog/_template.json` to `content/blog/<slug>.json` (the slug becomes the URL: `/ru/blog/<slug>/`).
+2. Fill in `date`, `category`, `title`, `description` and `body` for `ru` and `en`. `products` links the post to product pages.
+3. Body blocks: a plain string is a paragraph, `{"h2": "..."}` is a subheading, `{"ul": ["...", "..."]}` is a list.
+4. Push. The post appears on the blog page, in the sitemap (with its date) and in `/llms.txt`, with `BlogPosting` structured data.
+
+For an added language, add its key (e.g. `"kk"`) to each text field; posts without it show English.
+
+## SEO / GEO
+
+- `sitemap.xml` and `robots.txt` are generated from the page list and blog posts.
+- Every page has canonical and hreflang tags; the home page has `Organization` structured data and posts have `BlogPosting`.
+- `/llms.txt` is a plain-language summary of the company, products and posts for AI assistants.
+- Google / Yandex ownership: paste the meta-tag codes into `siteVerification` in `lib/catalog.ts` and push.
 
 ## Inquiries
 

@@ -1,0 +1,33 @@
+{
+  "slug": "soda-ash-selection",
+  "date": "2026-10-11",
+  "category": {
+    "ru": "Продукция",
+    "en": "Products"
+  },
+  "title": {
+    "ru": "Выбор марки и упаковки кальцинированной соды",
+    "en": "Choosing soda ash grade and packaging"
+  },
+  "description": {
+    "ru": "Как выбрать марку кальцинированной соды и упаковку для поставки: требования процесса, лёгкая и плотная сода, мешки, паллеты и COA.",
+    "en": "How to choose soda ash grade and packaging for supply: process requirements, light vs dense ash, bags, pallets and COA."
+  },
+  "products": [
+    "soda-ash"
+  ],
+  "body": {
+    "ru": [
+      "Начните с требований технологического процесса. Укажите тип соды, допустимые примеси и требуемые показатели, а не только название продукта.",
+      "В текущем каталоге представлена лёгкая сода. Плотную соду и альтернативные марки необходимо запрашивать отдельно; наличие подтверждается до предложения.",
+      "Уточните материал и массу мешка, необходимость паллет, условия разгрузки и хранения. Согласуйте упаковку с перевозчиком и получателем.",
+      "Запросите актуальную спецификацию и образец COA. Сравнивайте предложения с одинаковыми требованиями к качеству и одинаковым местом передачи груза."
+    ],
+    "en": [
+      "Start with process requirements. Specify soda ash type, acceptable impurities and required values, rather than only the product name.",
+      "The current catalogue lists light soda ash. Dense soda ash and alternative grades require a separate availability check before quotation.",
+      "Confirm bag material and weight, pallet requirements, unloading arrangements and storage conditions. Agree packaging with the carrier and consignee.",
+      "Request the current specification and a sample COA. Compare offers against the same quality requirements and the same delivery location."
+    ]
+  }
+}

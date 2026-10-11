@@ -1,0 +1,31 @@
+{
+  "slug": "kazakhstan-quotation",
+  "date": "2026-10-11",
+  "category": {
+    "ru": "Поставка",
+    "en": "Delivery"
+  },
+  "title": {
+    "ru": "Из чего складывается цена поставки в Казахстан",
+    "en": "Understanding a quotation for Kazakhstan"
+  },
+  "description": {
+    "ru": "Из чего складывается цена поставки химического сырья из Китая в Казахстан: транспорт, Хоргос, упаковка, FCA и DAP.",
+    "en": "What makes up the price of chemical supply from China to Kazakhstan: transport, Khorgos, packaging, FCA and DAP."
+  },
+  "products": [],
+  "body": {
+    "ru": [
+      "Предложение зависит от марки, количества, упаковки, места передачи груза и оплаты. Сравнивайте предложения на одинаковой основе.",
+      "Транспорт может включать доставку по Китаю, перегрузку, пограничные операции, международный участок и доставку до согласованного пункта.",
+      "Для продукции со специальными требованиями к перевозке маршрут, упаковку и документы предварительно согласовывают с перевозчиком. Не каждый маршрут принимает каждый груз.",
+      "FCA и DAP описывают разные точки передачи и обязанности. Срок, стоимость, таможенные обязанности и допустимость маршрута указываются в конкретном предложении."
+    ],
+    "en": [
+      "An offer depends on grade, quantity, packaging, handover location and payment conditions. Compare quotations on the same basis.",
+      "Transport can include the China leg, handling, border operations, the international leg and delivery to the agreed point.",
+      "For products with special transport requirements, the carrier must assess the route, packaging and documents beforehand. A route does not automatically accept every cargo.",
+      "FCA and DAP involve different handover points and responsibilities. Lead time, price, customs responsibilities and route feasibility belong in the specific offer."
+    ]
+  }
+}

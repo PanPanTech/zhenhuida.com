@@ -1,0 +1,31 @@
+{
+  "slug": "inquiry-checklist",
+  "date": "2026-10-11",
+  "category": {
+    "ru": "Закупки",
+    "en": "Procurement"
+  },
+  "title": {
+    "ru": "Что подготовить для точного запроса цены",
+    "en": "Preparing a complete quotation request"
+  },
+  "description": {
+    "ru": "Что указать в запросе цены на химическое сырьё, чтобы получить точное предложение: продукт, марка, объём, доставка и документы.",
+    "en": "What to include in a chemical raw material price request to get an accurate offer: product, grade, quantity, delivery and documents."
+  },
+  "products": [],
+  "body": {
+    "ru": [
+      "Укажите юридическое название покупателя, страну, город доставки и контактный адрес электронной почты.",
+      "Опишите продукт, марку, требуемые показатели и объём. Для перхлората натрия обязательно уточните форму вещества.",
+      "Добавьте назначение, упаковку, желаемую дату поставки и место передачи груза. Назовите документы, которые должен проверить импортёр.",
+      "Первое обращение можно отправить с базовой информацией. Доступность, оплата, транспорт и документы подтверждаются отдельно до договора."
+    ],
+    "en": [
+      "Provide the buyer’s legal name, destination country and city, and a contact email.",
+      "Specify product, grade, required values and quantity. For sodium perchlorate, state the chemical form explicitly.",
+      "Include intended use, packaging, requested delivery date and handover location. List the documents your importer needs to review.",
+      "A first inquiry can contain the basics. Availability, payment terms, transport and documents are confirmed separately before contracting."
+    ]
+  }
+}

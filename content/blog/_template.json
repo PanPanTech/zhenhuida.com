@@ -1,0 +1,22 @@
+{
+  "slug": "url-of-the-post-in-latin-letters",
+  "date": "2026-10-11",
+  "category": {"ru": "Закупки", "en": "Procurement"},
+  "title": {"ru": "Заголовок статьи", "en": "Post title"},
+  "description": {"ru": "1–2 предложения для поиска и списка статей.", "en": "1–2 sentences for search results and the post list."},
+  "products": ["sodium-chlorate"],
+  "body": {
+    "ru": [
+      "Первый абзац.",
+      {"h2": "Подзаголовок"},
+      "Абзац.",
+      {"ul": ["Пункт списка", "Пункт списка"]}
+    ],
+    "en": [
+      "First paragraph.",
+      {"h2": "Subheading"},
+      "Paragraph.",
+      {"ul": ["List item", "List item"]}
+    ]
+  }
+}

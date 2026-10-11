@@ -1,0 +1,33 @@
+{
+  "slug": "pvc-procurement",
+  "date": "2026-10-11",
+  "category": {
+    "ru": "Контроль качества",
+    "en": "Quality"
+  },
+  "title": {
+    "ru": "Какие показатели проверить при закупке ПВХ",
+    "en": "What to verify when purchasing PVC resin"
+  },
+  "description": {
+    "ru": "Какие показатели смолы ПВХ проверить при закупке: K-value, летучие вещества, насыпная плотность, TDS и COA партии.",
+    "en": "Which PVC resin parameters to verify when purchasing: K-value, volatile matter, bulk density, TDS and batch COA."
+  },
+  "products": [
+    "pvc-resin"
+  ],
+  "body": {
+    "ru": [
+      "Укажите конечное изделие и технологию переработки: требования к смоле для труб и мягких изделий различаются.",
+      "Согласуйте марку, K-value или вязкость, летучие вещества, насыпную плотность и характеристики просеивания согласно действующей спецификации.",
+      "Если важны белизна, включения или остаточный мономер, внесите их в согласованный перечень контроля. Название марки не заменяет техническую спецификацию.",
+      "Проверяйте показатели по оригинальным TDS и COA конкретной партии. Уточните производителя, прослеживаемость, упаковку и возможность оценки образца."
+    ],
+    "en": [
+      "State the finished product and processing method: pipe resin and flexible-product resin have different requirements.",
+      "Agree the grade, K-value or viscosity, volatile matter, bulk density and sieve characteristics against the current specification.",
+      "Where whiteness, inclusions or residual monomer matter, include them in the agreed test list. A grade name alone does not replace a technical specification.",
+      "Check values against the original TDS and batch COA. Confirm manufacturer, traceability, packaging and sample evaluation arrangements."
+    ]
+  }
+}
