@@ -1,0 +1,7 @@
+'use client';
+import {useState} from 'react';
+import {Send,MessageCircle,Mail,Link2,Check,Users,Briefcase} from 'lucide-react';
+import {tx,type Lang} from '@/lib/catalog';
+
+// Plain share links (no third-party scripts) plus a copy-link button.
+export function ShareLinks({lang,url,title}:{lang:Lang;url:string;title:string}){const[copied,setCopied]=useState(false);const u=encodeURIComponent(url),t=encodeURIComponent(title);const links=[{label:'Telegram',href:`https://t.me/share/url?url=${u}&text=${t}`,icon:<Send size={16}/>},{label:'WhatsApp',href:`https://wa.me/?text=${t}%20${u}`,icon:<MessageCircle size={16}/>},{label:'VK',href:`https://vk.com/share.php?url=${u}&title=${t}`,icon:<Users size={16}/>},{label:'LinkedIn',href:`https://www.linkedin.com/sharing/share-offsite/?url=${u}`,icon:<Briefcase size={16}/>},{label:'Email',href:`mailto:?subject=${t}&body=${u}`,icon:<Mail size={16}/>}];async function copy(){try{await navigator.clipboard.writeText(url);setCopied(true);setTimeout(()=>setCopied(false),2000)}catch{}}return <div className="share-box"><p className="eyebrow">{tx(lang,'Поделиться статьёй','Share this article')}</p><div className="share-row">{links.map(l=><a key={l.label} className="share-link" href={l.href} target={l.href.startsWith('mailto')?undefined:'_blank'} rel="noopener">{l.icon}{l.label}</a>)}<button type="button" className="share-link" onClick={copy}>{copied?<Check size={16}/>:<Link2 size={16}/>}{copied?tx(lang,'Скопировано','Copied'):tx(lang,'Копировать ссылку','Copy link')}</button></div></div>}

@@ -35,7 +35,7 @@ npm run start      # serve out/ locally
 
 1. Copy `content/blog/_template.json` to `content/blog/<slug>.json` (the slug becomes the URL: `/ru/blog/<slug>/`).
 2. Fill in `date`, `category`, `title`, `description` and `body` for `ru` and `en`. `products` links the post to product pages.
-3. Body blocks: a plain string is a paragraph, `{"h2": "..."}` is a subheading, `{"ul": ["...", "..."]}` is a list.
+3. Body blocks: paragraphs, `h2` headings (they build the table of contents), lists, a key-points `summary`, `note`, images with credits, a chemical `chem` card, comparison `table` and an `apps` icon grid. The full list is at the top of `lib/blog.ts`; `content/blog/karbonat-natriya-kalcinirovannaya-soda.json` uses all of them. Add `"faq"` for a Q&A section and `"draft": true` to keep a post unpublished (`SHOW_DRAFTS=1 npm run build` previews drafts).
 4. Push. The post appears on the blog page, in the sitemap (with its date) and in `/llms.txt`, with `BlogPosting` structured data.
 
 For an added language, add its key (e.g. `"kk"`) to each text field; posts without it show English.

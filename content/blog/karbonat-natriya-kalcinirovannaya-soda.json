@@ -1,0 +1,191 @@
+{
+  "slug": "karbonat-natriya-kalcinirovannaya-soda",
+  "date": "2026-10-12",
+  "image": "/images/blog/soda-ash/soda-ash-powder.jpg",
+  "category": {"ru": "Продукция", "en": "Products"},
+  "title": {
+    "ru": "Карбонат натрия (кальцинированная сода): марки, показатели и применение в промышленности",
+    "en": "Sodium carbonate (soda ash): grades, specifications and industrial uses"
+  },
+  "description": {
+    "ru": "Что такое карбонат натрия, чем лёгкая сода отличается от тяжёлой, какие показатели проверять при закупке и где применяют кальцинированную соду.",
+    "en": "What sodium carbonate is, how light and dense soda ash differ, which parameters to check when buying, and where soda ash is used in industry."
+  },
+  "products": ["soda-ash"],
+  "body": {
+    "ru": [
+      {"summary": [
+        "Карбонат натрия (Na₂CO₃) — кальцинированная сода, базовое сырьё для стекла, химии, моющих средств, металлургии и водоподготовки.",
+        "Лёгкая и тяжёлая сода одинаковы по составу, но различаются насыпной плотностью: тяжёлую обычно выбирают стекольные заводы.",
+        "При закупке сравнивайте не марку, а показатели: Na₂CO₃, хлориды, железо, нерастворимый остаток — по TDS и COA партии.",
+        "Кальцинированная сода не является опасным грузом по ДОПОГ, но требует защиты от влаги."
+      ]},
+      "Карбонат натрия (Na₂CO₃), или кальцинированная сода, — белое порошкообразное или гранулированное вещество, один из базовых продуктов химической промышленности. Техническая сода поставляется в двух основных формах — лёгкой и тяжёлой (плотной): по химическому составу они одинаковы, но различаются насыпной плотностью и областью применения.",
+      {"img": "/images/blog/soda-ash/soda-ash-powder.jpg", "alt": "Белый порошок карбоната натрия крупным планом", "caption": "Карбонат натрия — белый мелкокристаллический порошок.", "credit": "Фото: Geoprofi Lars, CC BY-SA 4.0", "creditUrl": "https://commons.wikimedia.org/wiki/File:Natriumcarbonat_01.jpg"},
+      {"h2": "Что такое карбонат натрия"},
+      {"chem": "Na₂CO₃", "name": "Карбонат натрия · кальцинированная сода", "structure": "carbonate", "facts": [
+        ["CAS", "497-19-8"],
+        ["Молярная масса", "105,99 г/моль"],
+        ["Внешний вид", "белый порошок или гранулы"],
+        ["Раствор", "щелочной, pH ≈ 11"],
+        ["Свойство", "гигроскопичен, слёживается"],
+        ["СГС", "раздражение глаз"]
+      ]},
+      "Карбонат натрия — натриевая соль угольной кислоты. В отличие от пищевой соды (гидрокарбоната натрия, NaHCO₃), это более сильное основание. Вещество гигроскопично — на влажном воздухе поглощает воду и слёживается, поэтому упаковка и условия хранения имеют значение.",
+      "Название «кальцинированная» связано с технологией: соду получают прокаливанием (кальцинацией) гидрокарбоната натрия. Основные промышленные способы — аммиачный метод Сольве, где сырьём служат поваренная соль и известняк, комбинированный метод с попутным получением хлорида аммония и переработка природной соды (троны).",
+      {"img": "/images/blog/soda-ash/soda-ash-plant.jpg", "alt": "Вид с воздуха на содовое производство по методу Сольве и его технологические отстойники", "caption": "Содовое производство по методу Сольве у Домбаль-сюр-Мёрт (Франция), вид с воздуха.", "credit": "Фото: Jeroen Komen, CC BY-SA 2.0", "creditUrl": "https://commons.wikimedia.org/wiki/File:Production_site_for_sodium_carbonate_near_Dombasle-sur-Meurthe_France_(19630816513).jpg"},
+      {"h2": "Лёгкая и тяжёлая сода: в чём разница"},
+      {"table": {"head": ["", "Лёгкая сода", "Тяжёлая (плотная) сода"], "rows": [
+        ["Форма", "мелкий порошок", "гранулы"],
+        ["Насыпная плотность", "≈ 0,5–0,6 т/м³", "≈ 0,9–1,1 т/м³"],
+        ["Пыление", "выше", "ниже"],
+        ["Типичное применение", "химия, моющие средства, водоподготовка", "стекольное производство"],
+        ["Цена", "ниже", "обычно выше — нужна дополнительная переработка"]
+      ]}},
+      "Если технология не требует гранулированного продукта, лёгкая сода — более экономичный выбор. Тяжёлая сода меньше пылит и равномернее смешивается с песком, поэтому её предпочитают стекольные заводы.",
+      {"h2": "Марки и стандарты"},
+      "В России и других странах ЕАЭС техническая кальцинированная сода выпускается по ГОСТ 5100-85, который предусматривает марку А (гранулированная) и марку Б (порошкообразная). В Китае действует стандарт GB/T 210-2022 «Карбонат натрия технический», где продукция делится на классы и сорта.",
+      {"img": "/images/blog/soda-ash/soda-ash-bag-40kg.jpg", "narrow": true, "alt": "Мешок технического карбоната натрия (лёгкий), 40 кг, стандарт GB/T 210-2022", "caption": "Маркировка мешка лёгкой соды: стандарт GB/T 210-2022, класс II, высший сорт, масса нетто 40 кг."},
+      {"note": "При импорте продукцию сравнивают не по названию марки, а по фактическим значениям в технической спецификации (TDS) и сертификате анализа партии (COA)."},
+      {"h2": "Какие показатели проверять при закупке"},
+      "Помимо содержания основного вещества, согласуйте примеси, критичные для вашего процесса:",
+      {"ul": [
+        "массовая доля карбоната натрия — для технической соды обычно не ниже 99%;",
+        "хлориды (в пересчёте на NaCl);",
+        "железо (в пересчёте на Fe₂O₃) — особенно важно для бесцветного стекла;",
+        "нерастворимый в воде остаток;",
+        "потери при прокаливании (влага);",
+        "насыпная плотность и гранулометрический состав — для тяжёлой соды."
+      ]},
+      "Сравнивайте предложения при одинаковых требованиях к качеству и одинаковом месте передачи груза. Низкая цена может означать более высокое содержание хлоридов или железа, что неприемлемо для части производств.",
+      {"h2": "Где применяется кальцинированная сода"},
+      {"apps": [
+        {"icon": "glass", "title": "Стекло", "text": "Крупнейшая область применения: листовое и тарное стекло, стекловолокно. Сода снижает температуру плавления кварцевого песка."},
+        {"icon": "chemistry", "title": "Химическая промышленность", "text": "Силикаты натрия, фосфаты, гидрокарбонат натрия и другие соединения."},
+        {"icon": "detergent", "title": "Моющие средства", "text": "Щелочной компонент и умягчитель воды в порошках и чистящих средствах."},
+        {"icon": "metal", "title": "Металлургия", "text": "Флюс, десульфурация, переработка руд цветных металлов."},
+        {"icon": "water", "title": "Водоподготовка", "text": "Корректировка pH и умягчение воды — снижение кальциевой жёсткости."},
+        {"icon": "battery", "title": "Новые материалы", "text": "Получение карбоната лития из рассолов: сода служит осадителем."},
+        {"icon": "paper", "title": "Бумага и текстиль", "text": "Целлюлозно-бумажное и текстильное производство."}
+      ]},
+      {"img": "/images/blog/soda-ash/water-treatment.jpg", "alt": "Станция водоподготовки с силосом реагентов и осветлителем", "caption": "Станция водоподготовки: силос реагентов, смеситель и осветлитель.", "credit": "Фото: U.S. EPA, общественное достояние", "creditUrl": "https://commons.wikimedia.org/wiki/File:Gladstone_Waste_Treatment_Plant_(28863710586).jpg"},
+      {"h2": "Кальцинированная сода в Казахстане"},
+      "Собственного производства соды в Казахстане пока нет: потребности стекольных, химических и горнодобывающих предприятий покрываются импортом — по данным внешнеторговой статистики, около 350 тыс. тонн в 2023 году. Основные поставщики — Россия и Китай. В стране реализуются проекты собственных содовых заводов, поэтому структура рынка в ближайшие годы может измениться.",
+      "Для поставок из Китая важен маршрут: из западных провинций груз следует через пограничный переход Хоргос. Кальцинированная сода не относится к опасным грузам по правилам ДОПОГ, поэтому её перевозка проще, чем перевозка окислителей, но упаковка должна надёжно защищать продукт от влаги.",
+      {"h2": "Упаковка, хранение и безопасность"},
+      {"ul": [
+        "Упаковка: полипропиленовые мешки с полиэтиленовым вкладышем по 25, 40 или 50 кг, мягкие контейнеры (биг-бэги) по 1 т.",
+        "Хранение: сухой крытый склад — при контакте с влагой сода слёживается.",
+        "Безопасность: не горюча, но вызывает серьёзное раздражение глаз. Нужны защитные очки и защита органов дыхания от пыли; подробности — в паспорте безопасности (SDS)."
+      ]},
+      {"h2": "Что указать в запросе"},
+      {"ul": [
+        "форму соды (лёгкая или тяжёлая) и область применения;",
+        "требуемые показатели: содержание Na₂CO₃, хлориды, железо, нерастворимый остаток;",
+        "объём партии и периодичность поставок;",
+        "упаковку и условия разгрузки;",
+        "город доставки и желаемые условия поставки (например, FCA или DAP);",
+        "необходимые документы: COA, SDS, документы для таможенного оформления."
+      ]},
+      {"note": "В каталоге Qinghai Zhenhuida представлена лёгкая кальцинированная сода; возможность поставки тяжёлой соды проверяется по запросу. Спецификация, упаковка и наличие партии подтверждаются до заключения договора."}
+    ],
+    "en": [
+      {"summary": [
+        "Sodium carbonate (Na₂CO₃), or soda ash, is a basic raw material for glass, chemicals, detergents, metallurgy and water treatment.",
+        "Light and dense soda ash have the same chemistry but different bulk density; glass plants usually choose dense ash.",
+        "When buying, compare parameters rather than grade names: Na₂CO₃, chlorides, iron, insolubles — per the TDS and batch COA.",
+        "Soda ash is not dangerous goods under ADR, but it must be kept dry."
+      ]},
+      "Sodium carbonate (Na₂CO₃), also called soda ash, is a white powder or granular material and one of the basic products of the chemical industry. Industrial soda ash is supplied in two main forms — light and dense. Their chemistry is the same; they differ in bulk density and typical applications.",
+      {"img": "/images/blog/soda-ash/soda-ash-powder.jpg", "alt": "Close-up of white sodium carbonate powder", "caption": "Sodium carbonate is a fine white crystalline powder.", "credit": "Photo: Geoprofi Lars, CC BY-SA 4.0", "creditUrl": "https://commons.wikimedia.org/wiki/File:Natriumcarbonat_01.jpg"},
+      {"h2": "What sodium carbonate is"},
+      {"chem": "Na₂CO₃", "name": "Sodium carbonate · soda ash", "structure": "carbonate", "facts": [
+        ["CAS", "497-19-8"],
+        ["Molar mass", "105.99 g/mol"],
+        ["Appearance", "white powder or granules"],
+        ["Solution", "alkaline, pH ≈ 11"],
+        ["Behaviour", "hygroscopic, cakes"],
+        ["GHS", "eye irritation"]
+      ]},
+      "Sodium carbonate is the sodium salt of carbonic acid. Unlike baking soda (sodium bicarbonate, NaHCO₃), it is a stronger base. It is hygroscopic — it absorbs moisture from humid air and cakes — so packaging and storage matter.",
+      "Soda ash is produced by calcining sodium bicarbonate. The main industrial routes are the Solvay ammonia-soda process, which uses salt and limestone, the combined process that also yields ammonium chloride, and processing of natural soda (trona).",
+      {"img": "/images/blog/soda-ash/soda-ash-plant.jpg", "alt": "Aerial view of a Solvay soda ash plant and its process settling ponds", "caption": "Solvay-process soda ash site near Dombasle-sur-Meurthe, France, from the air.", "credit": "Photo: Jeroen Komen, CC BY-SA 2.0", "creditUrl": "https://commons.wikimedia.org/wiki/File:Production_site_for_sodium_carbonate_near_Dombasle-sur-Meurthe_France_(19630816513).jpg"},
+      {"h2": "Light vs dense soda ash"},
+      {"table": {"head": ["", "Light soda ash", "Dense soda ash"], "rows": [
+        ["Form", "fine powder", "granules"],
+        ["Bulk density", "≈ 0.5–0.6 t/m³", "≈ 0.9–1.1 t/m³"],
+        ["Dust", "higher", "lower"],
+        ["Typical use", "chemicals, detergents, water treatment", "glass manufacturing"],
+        ["Price", "lower", "usually higher — extra processing"]
+      ]}},
+      "If your process does not require a granular product, light soda ash is the more economical choice. Dense ash produces less dust and blends evenly with sand, which is why glass plants prefer it.",
+      {"h2": "Grades and standards"},
+      "In Russia and other EAEU countries, technical soda ash is produced to GOST 5100-85, which defines grade A (granular) and grade B (powder). In China, the applicable standard is GB/T 210-2022 \"Sodium carbonate for industrial use\", which divides products into classes and quality grades.",
+      {"img": "/images/blog/soda-ash/soda-ash-bag-40kg.jpg", "narrow": true, "alt": "Bag of light industrial sodium carbonate, 40 kg, standard GB/T 210-2022", "caption": "Light soda ash bag marking: standard GB/T 210-2022, Class II, superior grade, net weight 40 kg."},
+      {"note": "For imports, compare products by the actual values in the technical data sheet (TDS) and the batch certificate of analysis (COA), not by grade names."},
+      {"h2": "Parameters to check when buying"},
+      "Besides the main assay, agree the impurities that matter for your process:",
+      {"ul": [
+        "sodium carbonate content — usually at least 99% for technical grades;",
+        "chlorides (as NaCl);",
+        "iron (as Fe₂O₃) — especially important for clear glass;",
+        "water-insoluble matter;",
+        "loss on ignition (moisture);",
+        "bulk density and particle size — for dense soda ash."
+      ]},
+      "Compare offers against the same quality requirements and the same delivery point. A low price may reflect higher chloride or iron content, which some processes cannot accept.",
+      {"h2": "Where soda ash is used"},
+      {"apps": [
+        {"icon": "glass", "title": "Glass", "text": "The largest application: flat and container glass, glass fibre. Soda ash lowers the melting temperature of silica sand."},
+        {"icon": "chemistry", "title": "Chemicals", "text": "Sodium silicates, phosphates, sodium bicarbonate and other compounds."},
+        {"icon": "detergent", "title": "Detergents", "text": "Alkaline builder and water softener in powders and cleaners."},
+        {"icon": "metal", "title": "Metallurgy", "text": "Flux, desulphurisation, non-ferrous ore processing."},
+        {"icon": "water", "title": "Water treatment", "text": "pH adjustment and softening — reducing calcium hardness."},
+        {"icon": "battery", "title": "New materials", "text": "Lithium carbonate from brines, with soda ash as the precipitant."},
+        {"icon": "paper", "title": "Paper and textiles", "text": "Pulp, paper and textile manufacturing."}
+      ]},
+      {"img": "/images/blog/soda-ash/water-treatment.jpg", "alt": "Water treatment plant with a chemical silo and clarifier", "caption": "Water treatment plant: chemical silo, mixer and clarifier.", "credit": "Photo: U.S. EPA, public domain", "creditUrl": "https://commons.wikimedia.org/wiki/File:Gladstone_Waste_Treatment_Plant_(28863710586).jpg"},
+      {"h2": "Soda ash in Kazakhstan"},
+      "Kazakhstan has no domestic soda ash production yet: demand from glass, chemical and mining companies is covered by imports — about 350 thousand tonnes in 2023 according to foreign trade statistics. The main suppliers are Russia and China. Domestic soda plant projects are under way, so the market structure may change in the coming years.",
+      "For supplies from China the route matters: cargo from western China crosses the border at Khorgos. Soda ash is not classified as dangerous goods under ADR, so it is simpler to transport than oxidisers, but packaging must keep the product dry.",
+      {"h2": "Packaging, storage and safety"},
+      {"ul": [
+        "Packaging: polypropylene bags with a polyethylene liner of 25, 40 or 50 kg, or 1-tonne bulk bags.",
+        "Storage: a dry, covered warehouse — soda ash cakes on contact with moisture.",
+        "Safety: not flammable but causes serious eye irritation. Use goggles and dust respiratory protection; details are in the safety data sheet (SDS)."
+      ]},
+      {"h2": "What to include in your inquiry"},
+      {"ul": [
+        "the form (light or dense) and your application;",
+        "required values: Na₂CO₃ content, chlorides, iron, insoluble matter;",
+        "lot size and delivery frequency;",
+        "packaging and unloading arrangements;",
+        "destination city and preferred delivery terms (for example FCA or DAP);",
+        "documents you need: COA, SDS, customs documents."
+      ]},
+      {"note": "Qinghai Zhenhuida's catalogue currently lists light soda ash; dense soda ash is subject to an availability check. Specification, packaging and lot availability are confirmed before contracting."}
+    ]
+  },
+  "faq": [
+    {
+      "q": {"ru": "Чем кальцинированная сода отличается от пищевой?", "en": "How is soda ash different from baking soda?"},
+      "a": {"ru": "Пищевая сода — гидрокарбонат натрия (NaHCO₃), мягкое основание для пищевой промышленности. Кальцинированная сода — карбонат натрия (Na₂CO₃), более сильная щёлочь для промышленного применения; в пищу её не используют.", "en": "Baking soda is sodium bicarbonate (NaHCO₃), a mild base used in food. Soda ash is sodium carbonate (Na₂CO₃), a stronger alkali for industrial use; it is not used in food."}
+    },
+    {
+      "q": {"ru": "Чем кальцинированная сода отличается от каустической?", "en": "How is soda ash different from caustic soda?"},
+      "a": {"ru": "Каустическая сода — гидроксид натрия (NaOH), сильная едкая щёлочь, вызывающая химические ожоги. Это разные вещества с разными областями применения; заменять одно другим можно лишь в отдельных процессах.", "en": "Caustic soda is sodium hydroxide (NaOH), a strong corrosive alkali that causes chemical burns. They are different substances with different uses and are interchangeable only in some processes."}
+    },
+    {
+      "q": {"ru": "Какая сода нужна для производства стекла?", "en": "Which soda ash is used for glass?"},
+      "a": {"ru": "Как правило, тяжёлая (гранулированная): она меньше пылит и равномернее смешивается с песком. Допустимое содержание железа и хлоридов определяет технология конкретного завода.", "en": "Usually dense (granular) soda ash: it produces less dust and blends evenly with sand. Acceptable iron and chloride levels depend on the plant's process."}
+    },
+    {
+      "q": {"ru": "Является ли кальцинированная сода опасным грузом?", "en": "Is soda ash dangerous goods?"},
+      "a": {"ru": "Нет, по правилам ДОПОГ она не классифицируется как опасный груз. При этом она раздражает глаза и требует защиты от влаги при перевозке и хранении.", "en": "No, it is not classified as dangerous goods under ADR. It does irritate the eyes and must be kept dry in transport and storage."}
+    },
+    {
+      "q": {"ru": "Какие документы предоставляются при поставке?", "en": "Which documents come with a shipment?"},
+      "a": {"ru": "Обычно — сертификат анализа партии (COA) и паспорт безопасности (SDS). Полный перечень документов для импорта согласуется с импортёром до отгрузки.", "en": "Usually a batch certificate of analysis (COA) and a safety data sheet (SDS). The full set of import documents is agreed with the importer before shipment."}
+    }
+  ]
+}
