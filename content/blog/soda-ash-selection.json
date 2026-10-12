@@ -1,33 +1,122 @@
 {
   "slug": "soda-ash-selection",
   "date": "2026-10-11",
-  "category": {
-    "ru": "Продукция",
-    "en": "Products"
-  },
+  "updated": "2026-10-12",
+  "image": "/images/blog/soda-ash/soda-ash-bag-40kg.jpg",
+  "category": {"ru": "Продукция", "en": "Products"},
   "title": {
-    "ru": "Выбор марки и упаковки кальцинированной соды",
-    "en": "Choosing soda ash grade and packaging"
+    "ru": "Как выбрать кальцинированную соду: форма, показатели и упаковка",
+    "en": "How to choose soda ash: form, specifications and packaging"
   },
   "description": {
-    "ru": "Как выбрать марку кальцинированной соды и упаковку для поставки: требования процесса, лёгкая и плотная сода, мешки, паллеты и COA.",
-    "en": "How to choose soda ash grade and packaging for supply: process requirements, light vs dense ash, bags, pallets and COA."
+    "ru": "Пошаговый выбор кальцинированной соды для вашего производства: лёгкая или тяжёлая, требования к примесям, мешки или биг-бэги, документы TDS и COA.",
+    "en": "A step-by-step guide to choosing soda ash for your process: light or dense, impurity limits, bags or bulk bags, TDS and COA."
   },
-  "products": [
-    "soda-ash"
-  ],
+  "products": ["soda-ash"],
   "body": {
     "ru": [
-      "Начните с требований технологического процесса. Укажите тип соды, допустимые примеси и требуемые показатели, а не только название продукта.",
-      "В текущем каталоге представлена лёгкая сода. Плотную соду и альтернативные марки необходимо запрашивать отдельно; наличие подтверждается до предложения.",
-      "Уточните материал и массу мешка, необходимость паллет, условия разгрузки и хранения. Согласуйте упаковку с перевозчиком и получателем.",
-      "Запросите актуальную спецификацию и образец COA. Сравнивайте предложения с одинаковыми требованиями к качеству и одинаковым местом передачи груза."
+      {"summary": [
+        "Выбор начинается с процесса: стекольным заводам обычно нужна тяжёлая сода, химии и водоподготовке — лёгкая.",
+        "Задайте требования к примесям: хлориды, железо, нерастворимый остаток.",
+        "Упаковку выбирают по объёму, способу разгрузки и условиям хранения.",
+        "Перед заказом запросите TDS и образец COA и сравните их со своей спецификацией."
+      ]},
+      "Кальцинированная сода выглядит одинаково у всех поставщиков, но для производства важны форма, примеси и упаковка. Этот материал — практический порядок выбора в четыре шага. Общие сведения о продукте — в статье «Карбонат натрия (кальцинированная сода): марки, показатели и применение».",
+      {"h2": "Шаг 1. Определите форму соды по процессу"},
+      {"table": {"head": ["Процесс", "Форма соды", "На что обратить внимание"], "rows": [
+        ["Стекольное производство", "тяжёлая (гранулированная)", "железо, хлориды, гранулометрия, низкое пыление"],
+        ["Химические производства", "лёгкая", "содержание Na₂CO₃, нерастворимый остаток"],
+        ["Моющие средства", "чаще лёгкая", "растворимость, белизна, хлориды"],
+        ["Водоподготовка", "лёгкая", "растворимость, нерастворимый остаток"],
+        ["Металлургия", "лёгкая или тяжёлая — по технологии", "содержание основного вещества"]
+      ]}},
+      {"h2": "Шаг 2. Задайте требования к показателям"},
+      {"ul": [
+        "массовая доля Na₂CO₃;",
+        "хлориды (в пересчёте на NaCl);",
+        "железо (в пересчёте на Fe₂O₃);",
+        "нерастворимый в воде остаток;",
+        "потери при прокаливании (влага);",
+        "для тяжёлой соды — насыпная плотность и гранулометрия."
+      ]},
+      {"note": "Указывайте конкретные значения из технологической спецификации вашего производства, а не только «высший сорт» или название марки."},
+      {"h2": "Шаг 3. Выберите упаковку"},
+      {"table": {"head": ["Упаковка", "Когда подходит", "На что обратить внимание"], "rows": [
+        ["Мешки 25 кг", "небольшие объёмы, ручная разгрузка", "больше тары и труда при разгрузке"],
+        ["Мешки 40–50 кг", "регулярные поставки, разгрузка паллет погрузчиком", "влагозащитный вкладыш, паллетирование"],
+        ["Биг-бэги 1 т", "крупные объёмы, разгрузка погрузчиком или краном", "техника для разгрузки и дозирования"]
+      ]}},
+      {"img": "/images/blog/soda-ash/soda-ash-bag-40kg.jpg", "narrow": true, "alt": "Мешок лёгкой кальцинированной соды 40 кг, стандарт GB/T 210-2022", "caption": "Мешок лёгкой соды 40 кг с маркировкой стандарта GB/T 210-2022."},
+      "Упаковку согласуйте с перевозчиком и получателем: способ загрузки контейнера или вагона, паллеты, условия разгрузки и хранения. Сода гигроскопична, поэтому мешки должны иметь влагозащитный вкладыш, а склад — быть сухим и крытым.",
+      {"h2": "Шаг 4. Проверьте документы и сравните предложения"},
+      {"steps": [
+        {"title": "Запросите TDS", "text": "Техническая спецификация с гарантированными показателями продукта."},
+        {"title": "Запросите образец COA", "text": "Пример сертификата анализа партии с фактическими значениями."},
+        {"title": "Сверьте с требованиями", "text": "Сравните показатели со спецификацией вашего процесса."},
+        {"title": "Сравните условия", "text": "Одинаковые показатели, упаковка, объём и место передачи груза."}
+      ]},
+      {"note": "В каталоге Qinghai Zhenhuida представлена лёгкая кальцинированная сода. Тяжёлую соду и другие марки запрашивайте отдельно: наличие подтверждается до предложения."}
     ],
     "en": [
-      "Start with process requirements. Specify soda ash type, acceptable impurities and required values, rather than only the product name.",
-      "The current catalogue lists light soda ash. Dense soda ash and alternative grades require a separate availability check before quotation.",
-      "Confirm bag material and weight, pallet requirements, unloading arrangements and storage conditions. Agree packaging with the carrier and consignee.",
-      "Request the current specification and a sample COA. Compare offers against the same quality requirements and the same delivery location."
+      {"summary": [
+        "Start with your process: glass plants usually need dense soda ash; chemicals and water treatment use light ash.",
+        "Set impurity limits: chlorides, iron, insoluble matter.",
+        "Choose packaging by volume, unloading method and storage conditions.",
+        "Before ordering, request the TDS and a sample COA and compare them with your specification."
+      ]},
+      "Soda ash looks the same from every supplier, but form, impurities and packaging matter for production. This guide sets out a practical four-step selection. For general product information, see our article \"Sodium carbonate (soda ash): grades, specifications and industrial uses\".",
+      {"h2": "Step 1. Choose the form for your process"},
+      {"table": {"head": ["Process", "Form", "What to watch"], "rows": [
+        ["Glass manufacturing", "dense (granular)", "iron, chlorides, particle size, low dust"],
+        ["Chemical processing", "light", "Na₂CO₃ content, insoluble matter"],
+        ["Detergents", "mostly light", "solubility, whiteness, chlorides"],
+        ["Water treatment", "light", "solubility, insoluble matter"],
+        ["Metallurgy", "light or dense — by process", "main assay"]
+      ]}},
+      {"h2": "Step 2. Set specification requirements"},
+      {"ul": [
+        "Na₂CO₃ content;",
+        "chlorides (as NaCl);",
+        "iron (as Fe₂O₃);",
+        "water-insoluble matter;",
+        "loss on ignition (moisture);",
+        "for dense ash — bulk density and particle size."
+      ]},
+      {"note": "State actual values from your process specification, not just \"top grade\" or a grade name."},
+      {"h2": "Step 3. Choose packaging"},
+      {"table": {"head": ["Packaging", "Best for", "What to watch"], "rows": [
+        ["25 kg bags", "small volumes, manual unloading", "more packaging and handling"],
+        ["40–50 kg bags", "regular supply, palletised forklift unloading", "moisture liner, palletising"],
+        ["1 t bulk bags", "large volumes, forklift or crane unloading", "equipment for unloading and dosing"]
+      ]}},
+      {"img": "/images/blog/soda-ash/soda-ash-bag-40kg.jpg", "narrow": true, "alt": "40 kg bag of light soda ash, standard GB/T 210-2022", "caption": "40 kg bag of light soda ash marked with standard GB/T 210-2022."},
+      "Agree packaging with the carrier and consignee: container or wagon loading, pallets, unloading and storage. Soda ash is hygroscopic, so bags need a moisture-proof liner and the warehouse must be dry and covered.",
+      {"h2": "Step 4. Check documents and compare offers"},
+      {"steps": [
+        {"title": "Request the TDS", "text": "The technical data sheet with guaranteed product values."},
+        {"title": "Request a sample COA", "text": "An example batch certificate of analysis with actual values."},
+        {"title": "Check against your requirements", "text": "Compare the values with your process specification."},
+        {"title": "Compare terms", "text": "Same values, packaging, quantity and handover point."}
+      ]},
+      {"note": "Qinghai Zhenhuida's catalogue lists light soda ash. Request dense ash and other grades separately: availability is confirmed before an offer."}
     ]
-  }
+  },
+  "faq": [
+    {
+      "q": {"ru": "Можно ли использовать лёгкую соду для стекла?", "en": "Can light soda ash be used for glass?"},
+      "a": {"ru": "Технически это возможно, но лёгкая сода сильнее пылит и хуже смешивается с песком, поэтому большинство стекольных заводов используют тяжёлую. Решение принимает технолог завода.", "en": "Technically yes, but light ash is dustier and blends less evenly with sand, so most glass plants use dense ash. The plant's process engineer decides."}
+    },
+    {
+      "q": {"ru": "Какая упаковка выгоднее?", "en": "Which packaging is more economical?"},
+      "a": {"ru": "Как правило, биг-бэги выгоднее в пересчёте на тонну, но требуют техники для разгрузки. Для небольших объёмов удобнее мешки.", "en": "Bulk bags are usually cheaper per tonne but need unloading equipment. Bags are more convenient for small volumes."}
+    },
+    {
+      "q": {"ru": "Как долго можно хранить соду?", "en": "How long can soda ash be stored?"},
+      "a": {"ru": "В целой упаковке на сухом крытом складе сода сохраняет свойства; срок хранения указывает производитель. При контакте с влагой она слёживается.", "en": "In intact packaging in a dry, covered warehouse it keeps its properties; the producer states the shelf life. It cakes on contact with moisture."}
+    },
+    {
+      "q": {"ru": "Что делать, если сода слежалась?", "en": "What if the soda ash has caked?"},
+      "a": {"ru": "Слёживание вызвано влагой: затрудняются дозирование и растворение, а содержание основного вещества может снизиться за счёт поглощённой воды. Условия приёмки таких партий лучше заранее оговорить в договоре.", "en": "Caking is caused by moisture: dosing and dissolving become harder, and the main assay may drop due to absorbed water. Acceptance terms for such lots are best agreed in the contract."}
+    }
+  ]
 }

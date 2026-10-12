@@ -1,33 +1,156 @@
 {
   "slug": "pvc-procurement",
   "date": "2026-10-11",
-  "category": {
-    "ru": "Контроль качества",
-    "en": "Quality"
-  },
+  "updated": "2026-10-12",
+  "image": "/images/blog/pvc/pvc-sg5-bag-25kg.jpg",
+  "category": {"ru": "Контроль качества", "en": "Quality"},
   "title": {
-    "ru": "Какие показатели проверить при закупке ПВХ",
-    "en": "What to verify when purchasing PVC resin"
+    "ru": "Смола ПВХ: марки SG, K-value и показатели, которые нужно проверить при закупке",
+    "en": "PVC resin: SG grades, K-value and the parameters to check when purchasing"
   },
   "description": {
-    "ru": "Какие показатели смолы ПВХ проверить при закупке: K-value, летучие вещества, насыпная плотность, TDS и COA партии.",
-    "en": "Which PVC resin parameters to verify when purchasing: K-value, volatile matter, bulk density, TDS and batch COA."
+    "ru": "Как выбрать смолу ПВХ для труб, профилей и мягких изделий: марки SG-3…SG-8, K-value, ключевые показатели качества, документы TDS и COA.",
+    "en": "How to choose PVC resin for pipes, profiles and flexible products: SG-3 to SG-8 grades, K-value, key quality parameters, TDS and COA."
   },
-  "products": [
-    "pvc-resin"
-  ],
+  "products": ["pvc-resin"],
   "body": {
     "ru": [
-      "Укажите конечное изделие и технологию переработки: требования к смоле для труб и мягких изделий различаются.",
-      "Согласуйте марку, K-value или вязкость, летучие вещества, насыпную плотность и характеристики просеивания согласно действующей спецификации.",
-      "Если важны белизна, включения или остаточный мономер, внесите их в согласованный перечень контроля. Название марки не заменяет техническую спецификацию.",
-      "Проверяйте показатели по оригинальным TDS и COA конкретной партии. Уточните производителя, прослеживаемость, упаковку и возможность оценки образца."
+      {"summary": [
+        "Начните с изделия и технологии переработки: от них зависят марка смолы и K-value.",
+        "Китайская суспензионная смола ПВХ маркируется SG-1…SG-8 по стандарту GB/T 5761; для труб и профилей обычно выбирают SG-5.",
+        "Ключевые показатели: вязкость (K-value), летучие вещества, насыпная плотность, гранулометрия, включения, белизна, остаточный винилхлорид.",
+        "Сравнивайте смолы по TDS и COA конкретной партии, а не по названию марки."
+      ]},
+      "Смола ПВХ — массовый продукт, но «ПВХ» в запросе — это ещё не спецификация. Смола для напорной трубы и смола для кабельного пластиката различаются по молекулярной массе и требованиям к качеству. Ниже — что нужно знать, чтобы запросить подходящую марку и проверить партию.",
+      {"h2": "Что такое смола ПВХ"},
+      {"chem": "(C₂H₃Cl)ₙ", "name": "Поливинилхлорид · смола ПВХ", "structure": "pvc", "facts": [
+        ["CAS", "9002-86-2"],
+        ["Внешний вид", "белый порошок"],
+        ["Основной тип", "суспензионный (S-PVC)"],
+        ["Сырьё", "этилен или ацетилен"],
+        ["Перевозка", "не опасный груз"],
+        ["Хранение", "сухое крытое помещение"]
+      ]},
+      "Поливинилхлорид — один из самых массовых полимеров. Для труб, профилей, кабелей и большинства изделий используют суспензионную смолу; эмульсионную (пастовую) — для пластизолей: искусственной кожи, обоев, покрытий.",
+      "В Китае ПВХ производят двумя путями: из этилена и карбидным методом — из ацетилена, получаемого из карбида кальция. Карбидный метод распространён в западных провинциях, где есть уголь и известняк. Для покупателя важен не метод сам по себе, а фактические показатели партии.",
+      {"h2": "Марки SG и K-value"},
+      "В китайском стандарте GB/T 5761 суспензионная смола общего назначения делится на марки SG-1…SG-8 по вязкости. Чем меньше номер марки, тем выше молекулярная масса (K-value):",
+      {"table": {"head": ["Марка", "K-value, ориентировочно", "Типичное применение"], "rows": [
+        ["SG-3", "≈ 71–72", "кабельные пластикаты, мягкие плёнки и шланги"],
+        ["SG-5", "≈ 66–68", "трубы, профили, фитинги, жёсткие листы"],
+        ["SG-7", "≈ 60–62", "жёсткие плёнки, литьевые изделия"],
+        ["SG-8", "≈ 55–59", "прозрачные листы, литьё под давлением"]
+      ]}},
+      {"img": "/images/blog/pvc/pvc-sg5-bag-25kg.jpg", "narrow": true, "alt": "Мешок суспензионной смолы ПВХ марки SG-5, 25 кг, стандарт GB/T 5761-2018", "caption": "Маркировка мешка смолы ПВХ: стандарт GB/T 5761-2018, марка SG-5, масса нетто 25 кг."},
+      {"note": "Марки с высоким K-value используют для мягких изделий с пластификатором, с низким — для литья и прозрачных изделий. Для жёстких труб и профилей обычно выбирают SG-5; окончательный выбор зависит от рецептуры и оборудования."},
+      {"h2": "Какие показатели проверять"},
+      {"table": {"head": ["Показатель", "Что он показывает"], "rows": [
+        ["Вязкость / K-value", "молекулярную массу; определяет марку и область применения"],
+        ["Летучие вещества (включая воду)", "влажность смолы; влияет на переработку и поверхность изделия"],
+        ["Кажущаяся (насыпная) плотность", "поведение при дозировании и производительность экструдера"],
+        ["Остаток на ситах", "однородность частиц и смешение с добавками"],
+        ["Посторонние частицы, «рыбий глаз»", "дефекты изделий, особенно плёнок и прозрачных листов"],
+        ["Поглощение пластификатора", "важно для мягких изделий"],
+        ["Белизна после прогрева", "цвет и термостабильность смолы"],
+        ["Остаточный винилхлорид", "содержание мономера; важно для изделий, контактирующих с питьевой водой и пищей"]
+      ]}},
+      "Включите в согласованный перечень контроля те показатели, которые важны для вашего изделия. Название марки не заменяет техническую спецификацию: у разных производителей одна и та же марка может отличаться по отдельным показателям.",
+      {"h2": "Применение по изделиям"},
+      {"apps": [
+        {"icon": "pipe", "title": "Трубы и фитинги", "text": "Напорные и безнапорные трубы, фитинги; обычно SG-5."},
+        {"icon": "metal", "title": "Профили и листы", "text": "Оконные профили, жёсткие листы и панели."},
+        {"icon": "cable", "title": "Кабели и плёнки", "text": "Изоляция кабелей, мягкие плёнки и шланги; марки с более высоким K-value."},
+        {"icon": "glass", "title": "Прозрачные изделия", "text": "Прозрачные листы и литьевые изделия; марки с низким K-value."}
+      ]},
+      {"h2": "Документы и образец"},
+      {"ul": [
+        "оригинальная техническая спецификация (TDS) производителя;",
+        "сертификат анализа (COA) конкретной партии;",
+        "паспорт безопасности (SDS);",
+        "сведения о производителе и прослеживаемости партии;",
+        "возможность отправки образца для пробной переработки."
+      ]},
+      {"h2": "Упаковка и перевозка"},
+      "Типичная упаковка — мешки по 25 кг (бумажные многослойные или полипропиленовые) на паллетах, а также биг-бэги. Смола ПВХ не относится к опасным грузам; при перевозке и хранении её защищают от влаги и загрязнения.",
+      {"note": "В каталоге Qinghai Zhenhuida представлена суспензионная смола ПВХ. Марка, показатели и упаковка подтверждаются по TDS и COA до заключения договора."}
     ],
     "en": [
-      "State the finished product and processing method: pipe resin and flexible-product resin have different requirements.",
-      "Agree the grade, K-value or viscosity, volatile matter, bulk density and sieve characteristics against the current specification.",
-      "Where whiteness, inclusions or residual monomer matter, include them in the agreed test list. A grade name alone does not replace a technical specification.",
-      "Check values against the original TDS and batch COA. Confirm manufacturer, traceability, packaging and sample evaluation arrangements."
+      {"summary": [
+        "Start with the finished product and processing method: they determine the resin grade and K-value.",
+        "Chinese suspension PVC is graded SG-1 to SG-8 under GB/T 5761; SG-5 is the usual choice for pipes and profiles.",
+        "Key parameters: viscosity (K-value), volatiles, bulk density, particle size, impurities, whiteness, residual vinyl chloride.",
+        "Compare resins by the TDS and the batch COA, not by grade name."
+      ]},
+      "PVC resin is a commodity, but \"PVC\" in a request is not yet a specification. Resin for pressure pipe and resin for cable compound differ in molecular weight and quality requirements. Here is what you need to request the right grade and check a lot.",
+      {"h2": "What PVC resin is"},
+      {"chem": "(C₂H₃Cl)ₙ", "name": "Polyvinyl chloride · PVC resin", "structure": "pvc", "facts": [
+        ["CAS", "9002-86-2"],
+        ["Appearance", "white powder"],
+        ["Main type", "suspension (S-PVC)"],
+        ["Feedstock", "ethylene or acetylene"],
+        ["Transport", "not dangerous goods"],
+        ["Storage", "dry, covered area"]
+      ]},
+      "PVC is one of the most widely used polymers. Suspension resin is used for pipes, profiles, cables and most products; emulsion (paste) resin is used for plastisols such as artificial leather, wallpaper and coatings.",
+      "In China, PVC is made either from ethylene or by the carbide route — from acetylene produced from calcium carbide. The carbide route is common in the western provinces, where coal and limestone are available. For the buyer, what matters is not the route itself but the actual lot values.",
+      {"h2": "SG grades and K-value"},
+      "The Chinese standard GB/T 5761 divides general-purpose suspension resin into grades SG-1 to SG-8 by viscosity. The lower the grade number, the higher the molecular weight (K-value):",
+      {"table": {"head": ["Grade", "K-value, approx.", "Typical use"], "rows": [
+        ["SG-3", "≈ 71–72", "cable compounds, flexible film and hose"],
+        ["SG-5", "≈ 66–68", "pipes, profiles, fittings, rigid sheet"],
+        ["SG-7", "≈ 60–62", "rigid film, injection moulding"],
+        ["SG-8", "≈ 55–59", "clear sheet, injection moulding"]
+      ]}},
+      {"img": "/images/blog/pvc/pvc-sg5-bag-25kg.jpg", "narrow": true, "alt": "Bag of SG-5 suspension PVC resin, 25 kg, standard GB/T 5761-2018", "caption": "PVC resin bag marking: standard GB/T 5761-2018, grade SG-5, net weight 25 kg."},
+      {"note": "High-K grades are used for plasticised flexible products, low-K grades for moulding and clear products. SG-5 is the usual choice for rigid pipes and profiles; the final choice depends on your formulation and equipment."},
+      {"h2": "Parameters to check"},
+      {"table": {"head": ["Parameter", "What it tells you"], "rows": [
+        ["Viscosity / K-value", "molecular weight; defines the grade and application"],
+        ["Volatiles (incl. water)", "resin moisture; affects processing and surface quality"],
+        ["Apparent (bulk) density", "dosing behaviour and extruder output"],
+        ["Sieve residue", "particle uniformity and blending with additives"],
+        ["Impurity particles, fish eyes", "product defects, especially in film and clear sheet"],
+        ["Plasticiser absorption", "important for flexible products"],
+        ["Whiteness after heating", "colour and thermal stability"],
+        ["Residual vinyl chloride", "monomer content; important for drinking-water and food-contact products"]
+      ]}},
+      "Put the parameters that matter for your product into the agreed test list. A grade name does not replace a technical specification: the same grade can differ between producers.",
+      {"h2": "Applications by product"},
+      {"apps": [
+        {"icon": "pipe", "title": "Pipes and fittings", "text": "Pressure and non-pressure pipes, fittings; usually SG-5."},
+        {"icon": "metal", "title": "Profiles and sheet", "text": "Window profiles, rigid sheet and panels."},
+        {"icon": "cable", "title": "Cables and film", "text": "Cable insulation, flexible film and hose; higher-K grades."},
+        {"icon": "glass", "title": "Clear products", "text": "Clear sheet and moulded products; lower-K grades."}
+      ]},
+      {"h2": "Documents and samples"},
+      {"ul": [
+        "the producer's original technical data sheet (TDS);",
+        "the certificate of analysis (COA) for the specific lot;",
+        "safety data sheet (SDS);",
+        "producer and lot traceability information;",
+        "whether a sample can be sent for a processing trial."
+      ]},
+      {"h2": "Packaging and transport"},
+      "Typical packaging is 25 kg bags (multi-wall paper or polypropylene) on pallets, or bulk bags. PVC resin is not dangerous goods; keep it dry and clean in transport and storage.",
+      {"note": "Qinghai Zhenhuida's catalogue lists suspension PVC resin. Grade, specifications and packaging are confirmed against the TDS and COA before contracting."}
     ]
-  }
+  },
+  "faq": [
+    {
+      "q": {"ru": "Какая марка ПВХ нужна для труб?", "en": "Which PVC grade is used for pipes?"},
+      "a": {"ru": "Для жёстких труб и профилей обычно используют SG-5 (K-value около 66–68). Окончательный выбор зависит от рецептуры и оборудования.", "en": "Rigid pipes and profiles usually use SG-5 (K-value around 66–68). The final choice depends on formulation and equipment."}
+    },
+    {
+      "q": {"ru": "Чем суспензионный ПВХ отличается от эмульсионного?", "en": "How does suspension PVC differ from emulsion PVC?"},
+      "a": {"ru": "Суспензионный ПВХ — основная смола для экструзии и литья: трубы, профили, кабели. Эмульсионный (пастовый) используют для пластизолей: искусственной кожи, обоев, покрытий.", "en": "Suspension PVC is the main resin for extrusion and moulding: pipes, profiles, cables. Emulsion (paste) PVC is used for plastisols: artificial leather, wallpaper, coatings."}
+    },
+    {
+      "q": {"ru": "Влияет ли карбидный метод производства на качество?", "en": "Does the carbide production route affect quality?"},
+      "a": {"ru": "Качество определяется показателями партии, а не только методом производства. Сравнивайте смолы по TDS и COA: вязкость, летучие вещества, включения, белизну и остаточный мономер.", "en": "Quality is defined by the lot values, not just the route. Compare resins by TDS and COA: viscosity, volatiles, impurities, whiteness and residual monomer."}
+    },
+    {
+      "q": {"ru": "Можно ли получить образец для пробной переработки?", "en": "Can I get a sample for a processing trial?"},
+      "a": {"ru": "Возможность отправки образца и его объём согласуются отдельно.", "en": "Sample availability and quantity are agreed separately."}
+    }
+  ]
 }

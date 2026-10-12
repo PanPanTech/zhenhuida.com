@@ -1,31 +1,132 @@
 {
   "slug": "inquiry-checklist",
   "date": "2026-10-11",
-  "category": {
-    "ru": "Закупки",
-    "en": "Procurement"
-  },
+  "updated": "2026-10-12",
+  "image": "/images/expo/samples.jpg",
+  "category": {"ru": "Закупки", "en": "Procurement"},
   "title": {
-    "ru": "Что подготовить для точного запроса цены",
-    "en": "Preparing a complete quotation request"
+    "ru": "Как составить запрос цены на химическое сырьё: чек-лист для закупщика",
+    "en": "How to write a price request for chemical raw materials: a buyer's checklist"
   },
   "description": {
-    "ru": "Что указать в запросе цены на химическое сырьё, чтобы получить точное предложение: продукт, марка, объём, доставка и документы.",
-    "en": "What to include in a chemical raw material price request to get an accurate offer: product, grade, quantity, delivery and documents."
+    "ru": "Что указать в запросе цены на химическое сырьё, чтобы получить точное предложение с первого раза: компания, продукт, показатели, объём, доставка и документы.",
+    "en": "What to include in a price request for chemical raw materials to get an accurate offer the first time: company, product, specifications, quantity, delivery and documents."
   },
   "products": [],
   "body": {
     "ru": [
-      "Укажите юридическое название покупателя, страну, город доставки и контактный адрес электронной почты.",
-      "Опишите продукт, марку, требуемые показатели и объём. Для перхлората натрия обязательно уточните форму вещества.",
-      "Добавьте назначение, упаковку, желаемую дату поставки и место передачи груза. Назовите документы, которые должен проверить импортёр.",
-      "Первое обращение можно отправить с базовой информацией. Доступность, оплата, транспорт и документы подтверждаются отдельно до договора."
+      {"summary": [
+        "Точное предложение зависит от полноты запроса: продукт, показатели, объём, упаковка, место доставки и документы.",
+        "Первое обращение можно отправить с базовой информацией — недостающие данные уточним в ответе.",
+        "Цена без условий поставки (FCA, DAP и др.) несопоставима с другими предложениями.",
+        "Для отдельных продуктов назначение и требования к покупателю нужно указать заранее."
+      ]},
+      "Поставщик химического сырья не может назвать точную цену, пока не знает марку, объём, упаковку и место передачи груза. Чем полнее запрос, тем меньше уточнений и тем быстрее вы получите предложение, которое можно сравнить с другими.",
+      {"h2": "Что указать в запросе"},
+      {"table": {"head": ["Раздел", "Что указать", "Зачем это нужно"], "rows": [
+        ["Компания", "юридическое название, страна, контактное лицо, email или телефон", "проверка покупателя и оформление документов"],
+        ["Продукт", "название, марка, форма вещества, требуемые показатели", "от марки и показателей зависят цена и выбор производителя"],
+        ["Объём", "количество в партии, годовая потребность, периодичность", "объём влияет на цену, упаковку и транспорт"],
+        ["Упаковка", "тип и масса мешка, паллеты, биг-бэги", "упаковка входит в цену и влияет на погрузку"],
+        ["Доставка", "город, адрес склада, условия разгрузки, желаемые условия поставки", "определяет маршрут и стоимость транспорта"],
+        ["Сроки", "желаемая дата первой поставки", "проверка наличия партии и транспорта"],
+        ["Документы", "COA, SDS, сертификаты, документы для таможни", "подготовка документов до отгрузки"],
+        ["Назначение", "в каком процессе будет использоваться продукт", "подбор марки; для отдельных продуктов — обязательное условие"]
+      ]}},
+      {"note": "Для перхлората натрия обязательно укажите форму вещества — безводная или гидратированная. Для перхлората калия и других продуктов со специальными требованиями укажите назначение: без этого предложение не готовится."},
+      {"h2": "Пример: неполный и полный запрос"},
+      {"table": {"head": ["", "Неполный запрос", "Полный запрос"], "rows": [
+        ["Продукт", "«Нужна сода, сколько стоит?»", "кальцинированная сода, лёгкая, Na₂CO₃ не ниже 99,2%, для водоподготовки"],
+        ["Объём", "не указан", "40 т, далее 40 т ежемесячно"],
+        ["Упаковка", "не указана", "мешки 40 кг с вкладышем, на паллетах"],
+        ["Доставка", "«в Казахстан»", "Алматы, склад покупателя, DAP"],
+        ["Документы", "не указаны", "COA партии, SDS на русском языке"],
+        ["Результат", "нужен ещё один круг вопросов", "предложение можно готовить сразу"]
+      ]}},
+      {"h2": "Что происходит после отправки запроса"},
+      {"steps": [
+        {"title": "Проверка запроса", "text": "Менеджер проверяет продукт, объём и место доставки; при необходимости задаёт уточняющие вопросы."},
+        {"title": "Наличие и маршрут", "text": "Подтверждаются наличие партии, упаковка и возможность перевозки до вашего пункта."},
+        {"title": "Коммерческое предложение", "text": "Цена, условия поставки, сроки и условия оплаты фиксируются в письменном предложении."},
+        {"title": "Документы и образцы", "text": "По запросу предоставляются TDS, SDS и образец COA; отправка образца продукции согласуется отдельно."},
+        {"title": "Договор и отгрузка", "text": "После согласования условий заключается договор и планируется отгрузка."}
+      ]},
+      {"img": "/images/expo/samples.jpg", "alt": "Образцы химического сырья в стеклянных банках и каталог продукции", "caption": "Образцы продукции и каталог на выставке в Алматы, 2026 г."},
+      {"h2": "Частые ошибки в запросах"},
+      {"ul": [
+        "Запрос без объёма: цена за 1 т и за 100 т может существенно различаться.",
+        "Сравнение цен на разных условиях поставки: FCA в Китае и DAP в Алматы включают разные расходы.",
+        "Название марки без показателей: одна и та же марка у разных производителей может отличаться.",
+        "Требования к документам не согласованы: документы для таможни лучше обсудить до отгрузки."
+      ]},
+      {"h2": "Как отправить запрос"},
+      "Заполните форму на странице запроса поставки или напишите в WhatsApp / Telegram. Первое обращение можно отправить с базовой информацией — недостающие данные уточним в ответе. Отправка запроса не означает подтверждение наличия, цены или сроков: они фиксируются в письменном предложении."
     ],
     "en": [
-      "Provide the buyer’s legal name, destination country and city, and a contact email.",
-      "Specify product, grade, required values and quantity. For sodium perchlorate, state the chemical form explicitly.",
-      "Include intended use, packaging, requested delivery date and handover location. List the documents your importer needs to review.",
-      "A first inquiry can contain the basics. Availability, payment terms, transport and documents are confirmed separately before contracting."
+      {"summary": [
+        "An accurate offer depends on a complete request: product, specifications, quantity, packaging, delivery point and documents.",
+        "A first message can contain the basics — we will ask for anything missing.",
+        "A price without delivery terms (FCA, DAP, etc.) cannot be compared with other offers.",
+        "For some products, the intended use and buyer requirements must be stated upfront."
+      ]},
+      "A chemical supplier cannot quote an exact price without knowing the grade, quantity, packaging and handover point. The more complete your request, the fewer follow-up questions and the sooner you receive an offer you can compare with others.",
+      {"h2": "What to include"},
+      {"table": {"head": ["Section", "What to state", "Why it matters"], "rows": [
+        ["Company", "legal name, country, contact person, email or phone", "buyer verification and documents"],
+        ["Product", "name, grade, chemical form, required values", "grade and values determine price and producer"],
+        ["Quantity", "lot size, annual demand, frequency", "volume affects price, packaging and transport"],
+        ["Packaging", "bag type and weight, pallets, bulk bags", "packaging is part of the price and loading"],
+        ["Delivery", "city, warehouse address, unloading, preferred terms", "determines route and freight cost"],
+        ["Timing", "requested date of first delivery", "checks lot and transport availability"],
+        ["Documents", "COA, SDS, certificates, customs documents", "documents are prepared before dispatch"],
+        ["Intended use", "the process the product is for", "grade selection; mandatory for some products"]
+      ]}},
+      {"note": "For sodium perchlorate, always state the form — anhydrous or hydrated. For potassium perchlorate and other products with special requirements, state the intended use: no offer is prepared without it."},
+      {"h2": "Example: incomplete vs complete request"},
+      {"table": {"head": ["", "Incomplete request", "Complete request"], "rows": [
+        ["Product", "\"Need soda, how much?\"", "soda ash, light, Na₂CO₃ ≥ 99.2%, for water treatment"],
+        ["Quantity", "not stated", "40 t, then 40 t monthly"],
+        ["Packaging", "not stated", "40 kg bags with liner, palletised"],
+        ["Delivery", "\"to Kazakhstan\"", "Almaty, buyer's warehouse, DAP"],
+        ["Documents", "not stated", "batch COA, SDS in Russian"],
+        ["Result", "another round of questions", "offer can be prepared right away"]
+      ]}},
+      {"h2": "What happens after you send a request"},
+      {"steps": [
+        {"title": "Request review", "text": "Our manager checks the product, quantity and destination and asks follow-up questions if needed."},
+        {"title": "Availability and route", "text": "Lot availability, packaging and transport to your destination are confirmed."},
+        {"title": "Commercial offer", "text": "Price, delivery terms, timing and payment terms are set out in a written offer."},
+        {"title": "Documents and samples", "text": "TDS, SDS and a sample COA are provided on request; product samples are agreed separately."},
+        {"title": "Contract and dispatch", "text": "Once terms are agreed, a contract is signed and dispatch is planned."}
+      ]},
+      {"img": "/images/expo/samples.jpg", "alt": "Chemical raw material samples in glass jars and the product catalogue", "caption": "Product samples and catalogue at the exhibition in Almaty, 2026."},
+      {"h2": "Common mistakes"},
+      {"ul": [
+        "No quantity: the price for 1 t and for 100 t can differ significantly.",
+        "Comparing prices on different terms: FCA China and DAP Almaty include different costs.",
+        "A grade name without values: the same grade can differ between producers.",
+        "Documents not agreed: customs documents are best discussed before dispatch."
+      ]},
+      {"h2": "How to send a request"},
+      "Use the supply inquiry form or message us on WhatsApp / Telegram. A first message can contain the basics — we will ask for anything missing. Sending a request does not confirm availability, price or timing; these are set out in the written offer."
     ]
-  }
+  },
+  "faq": [
+    {
+      "q": {"ru": "Можно ли отправить запрос без точной спецификации?", "en": "Can I send a request without an exact specification?"},
+      "a": {"ru": "Да. Укажите продукт, область применения и объём — подходящую марку и показатели обсудим в ответе.", "en": "Yes. State the product, application and quantity — we will discuss a suitable grade and values in our reply."}
+    },
+    {
+      "q": {"ru": "Сколько времени занимает подготовка предложения?", "en": "How long does it take to prepare an offer?"},
+      "a": {"ru": "Срок зависит от продукта, объёма и маршрута. Уточняющие вопросы задаются в ответе на запрос, а наличие, цена и сроки фиксируются в письменном предложении.", "en": "It depends on the product, quantity and route. Follow-up questions come with our reply; availability, price and timing are set out in the written offer."}
+    },
+    {
+      "q": {"ru": "Можно ли получить образец?", "en": "Can I get a sample?"},
+      "a": {"ru": "Возможность отправки образца, его объём и условия доставки согласуются отдельно для каждого продукта.", "en": "Sample availability, quantity and shipping are agreed separately for each product."}
+    },
+    {
+      "q": {"ru": "Какие условия поставки возможны?", "en": "Which delivery terms are possible?"},
+      "a": {"ru": "Обычно обсуждаются FCA и DAP с точно указанным местом. Подробнее — в статье о том, из чего складывается цена поставки в Казахстан.", "en": "FCA and DAP with an exactly named place are usually discussed. See our article on what makes up a delivery price to Kazakhstan."}
+    }
+  ]
 }

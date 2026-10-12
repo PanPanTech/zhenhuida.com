@@ -13,9 +13,12 @@ import type {Lang} from './i18n';
 //   {"img": "/images/...", "alt": "...", "caption": "...", "credit": "...", "creditUrl": "https://...", "narrow": true}
 //   {"chem": "Na₂CO₃", "name": "...", "structure": "carbonate", "facts": [["label", "value"], ...]}
 //   {"table": {"head": ["", "..."], "rows": [["...", "..."], ...]}}
-//   {"apps": [{"icon": "glass", "title": "...", "text": "..."}, ...]}   icons: glass, chemistry, detergent, metal, water, battery, paper
+//   {"apps": [{"icon": "glass", "title": "...", "text": "..."}, ...]}   icons: glass, chemistry, detergent, metal, water, battery, paper, pipe, cable, truck, document, payment
+//   {"steps": [{"title": "...", "text": "..."}, ...]}            numbered process / route
 // Optional "faq": [{"q": {...}, "a": {...}}] renders a Q&A section with FAQPage structured data.
 // "draft": true keeps a post off the site; build with SHOW_DRAFTS=1 to preview drafts locally.
+// Revisions of live posts go in content/blog/drafts/<slug>.json: the live version stays published,
+// SHOW_DRAFTS=1 previews the revision in its place; publish by moving the file up to content/blog/.
 export type Block =
   | string
   | {h2: string}
@@ -25,7 +28,8 @@ export type Block =
   | {img: string; alt: string; caption?: string; credit?: string; creditUrl?: string; narrow?: boolean}
   | {chem: string; name: string; structure?: string; facts: [string, string][]}
   | {table: {head: string[]; rows: string[][]}}
-  | {apps: {icon: string; title: string; text: string}[]};
+  | {apps: {icon: string; title: string; text: string}[]}
+  | {steps: {title: string; text: string}[]};
 export type Localized<T> = Record<string, T>;
 export type Post = {
   slug: string;
@@ -42,14 +46,17 @@ export type Post = {
 };
 
 const dir = nodePath.join(process.cwd(), 'content', 'blog');
+const draftDir = nodePath.join(dir, 'drafts');
 const showDrafts = process.env.SHOW_DRAFTS === '1';
 
+const readDir = (d: string): Post[] => fs.existsSync(d)
+  ? fs.readdirSync(d).filter(f => f.endsWith('.json') && !f.startsWith('_')).map(f => JSON.parse(fs.readFileSync(nodePath.join(d, f), 'utf8')) as Post)
+  : [];
+
 export function getPosts(): Post[] {
-  return fs.readdirSync(dir)
-    .filter(f => f.endsWith('.json') && !f.startsWith('_'))
-    .map(f => JSON.parse(fs.readFileSync(nodePath.join(dir, f), 'utf8')) as Post)
-    .filter(p => showDrafts || !p.draft)
-    .sort((a, b) => b.date.localeCompare(a.date));
+  const posts = new Map(readDir(dir).filter(p => showDrafts || !p.draft).map(p => [p.slug, p]));
+  if (showDrafts) for (const p of readDir(draftDir)) posts.set(p.slug, p);
+  return [...posts.values()].sort((a, b) => b.date.localeCompare(a.date));
 }
 
 export function getPost(slug: string): Post | undefined {

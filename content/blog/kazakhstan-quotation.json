@@ -1,31 +1,146 @@
 {
   "slug": "kazakhstan-quotation",
   "date": "2026-10-11",
-  "category": {
-    "ru": "Поставка",
-    "en": "Delivery"
-  },
+  "updated": "2026-10-12",
+  "image": "/images/expo/hall.jpg",
+  "category": {"ru": "Поставка", "en": "Delivery"},
   "title": {
-    "ru": "Из чего складывается цена поставки в Казахстан",
-    "en": "Understanding a quotation for Kazakhstan"
+    "ru": "Из чего складывается цена поставки химического сырья из Китая в Казахстан",
+    "en": "What makes up the price of chemical supply from China to Kazakhstan"
   },
   "description": {
-    "ru": "Из чего складывается цена поставки химического сырья из Китая в Казахстан: транспорт, Хоргос, упаковка, FCA и DAP.",
-    "en": "What makes up the price of chemical supply from China to Kazakhstan: transport, Khorgos, packaging, FCA and DAP."
+    "ru": "Составляющие цены поставки химического сырья из Китая в Казахстан: продукт, упаковка, транспорт через Хоргос, условия Инкотермс (FCA, CPT, DAP) и импортные платежи.",
+    "en": "The components of a chemical supply price from China to Kazakhstan: product, packaging, transport via Khorgos, Incoterms (FCA, CPT, DAP) and import charges."
   },
   "products": [],
   "body": {
     "ru": [
-      "Предложение зависит от марки, количества, упаковки, места передачи груза и оплаты. Сравнивайте предложения на одинаковой основе.",
-      "Транспорт может включать доставку по Китаю, перегрузку, пограничные операции, международный участок и доставку до согласованного пункта.",
-      "Для продукции со специальными требованиями к перевозке маршрут, упаковку и документы предварительно согласовывают с перевозчиком. Не каждый маршрут принимает каждый груз.",
-      "FCA и DAP описывают разные точки передачи и обязанности. Срок, стоимость, таможенные обязанности и допустимость маршрута указываются в конкретном предложении."
+      {"summary": [
+        "Цена поставки складывается из стоимости продукта, упаковки, транспорта по Китаю, пограничных операций, международного участка и доставки до пункта назначения.",
+        "Условия поставки (Инкотермс) определяют, какие расходы и риски несёт каждая сторона.",
+        "Сравнивайте предложения только на одинаковых условиях и с одним местом передачи груза.",
+        "Для опасных грузов, например окислителей, маршрут и перевозчика согласуют заранее."
+      ]},
+      "Две цены на один и тот же продукт могут отличаться на десятки процентов — и обе быть честными. Разница обычно объясняется тем, что именно включено в цену: только продукт на складе в Китае или продукт, доставленный до вашего склада в Казахстане.",
+      {"h2": "Из чего складывается цена"},
+      {"table": {"head": ["Составляющая", "Что входит"], "rows": [
+        ["Продукт", "марка, показатели, производитель, объём партии"],
+        ["Упаковка", "мешки, вкладыши, паллеты, биг-бэги, маркировка"],
+        ["Доставка по Китаю", "от склада производителя до пограничного перехода или станции"],
+        ["Пограничные операции", "экспортное оформление в Китае, перегрузка, оформление на границе"],
+        ["Международный участок", "автомобильная или железнодорожная перевозка до Казахстана"],
+        ["Доставка по Казахстану", "до склада покупателя или согласованного пункта"],
+        ["Импортные платежи", "таможенная пошлина и НДС при импорте — обычно на стороне импортёра"],
+        ["Оплата и валюта", "условия оплаты, банковские расходы, курсовые риски"]
+      ]}},
+      {"h2": "Маршрут через Хоргос"},
+      "Основной сухопутный маршрут из западных провинций Китая в Казахстан проходит через пограничный переход Хоргос. Типичная последовательность:",
+      {"steps": [
+        {"title": "Склад в Китае", "text": "Погрузка партии в контейнер или автомобиль, подготовка экспортных документов."},
+        {"title": "Доставка до границы", "text": "Автомобильным или железнодорожным транспортом до пограничного перехода Хоргос."},
+        {"title": "Пограничные операции", "text": "Экспортное оформление в Китае; на железной дороге — перегрузка или смена колёсных пар из-за разной ширины колеи."},
+        {"title": "Импорт в Казахстан", "text": "Таможенное оформление в ЕАЭС: декларация, документы на продукцию, уплата импортных платежей."},
+        {"title": "Доставка до покупателя", "text": "Транспорт до склада покупателя или до согласованного пункта."}
+      ]},
+      "Срок в пути зависит от вида транспорта, загрузки погранперехода и сезона, поэтому он указывается в конкретном предложении, а не в виде универсальной цифры.",
+      {"h2": "Условия поставки: EXW, FCA, CPT, DAP, DDP"},
+      {"table": {"head": ["Условие", "Где продавец передаёт груз", "Основная перевозка", "Импортное оформление"], "rows": [
+        ["EXW", "на своём складе, без погрузки", "покупатель", "покупатель"],
+        ["FCA", "перевозчику покупателя в названном месте", "покупатель", "покупатель"],
+        ["CPT", "первому перевозчику; риск переходит при передаче", "продавец — до названного пункта", "покупатель"],
+        ["DAP", "в названном пункте назначения, без разгрузки", "продавец", "покупатель"],
+        ["DDP", "в пункте назначения, с уплатой импортных платежей", "продавец", "продавец"]
+      ]}},
+      {"note": "Цена «FCA Хоргос» и цена «DAP Алматы» напрямую несопоставимы: во втором случае в цену уже включены транспорт до Алматы и риски в пути."},
+      {"h2": "Как сравнивать предложения"},
+      {"ul": [
+        "одинаковые условия поставки и место передачи груза;",
+        "одинаковые требования к показателям и упаковке;",
+        "одинаковый объём партии;",
+        "условия оплаты и валюта;",
+        "что входит в цену: документы, маркировка, страхование;",
+        "срок действия предложения."
+      ]},
+      {"h2": "Опасные грузы"},
+      "Часть химической продукции относится к опасным грузам. Например, хлорат натрия — окислитель класса 5.1 (UN 1495). Для таких грузов перевозчик заранее подтверждает возможность перевозки, а упаковка, маркировка и документы должны соответствовать правилам ДОПОГ. Не каждый маршрут и не каждый перевозчик принимают такой груз — это учитывается в цене и сроках.",
+      {"apps": [
+        {"icon": "truck", "title": "Транспорт", "text": "Вид транспорта, маршрут и перевозчик с допуском к грузу."},
+        {"icon": "document", "title": "Документы", "text": "Экспортные документы, SDS, сертификаты, документы для таможни ЕАЭС."},
+        {"icon": "payment", "title": "Оплата", "text": "Условия оплаты, валюта, банковские расходы."}
+      ]}
     ],
     "en": [
-      "An offer depends on grade, quantity, packaging, handover location and payment conditions. Compare quotations on the same basis.",
-      "Transport can include the China leg, handling, border operations, the international leg and delivery to the agreed point.",
-      "For products with special transport requirements, the carrier must assess the route, packaging and documents beforehand. A route does not automatically accept every cargo.",
-      "FCA and DAP involve different handover points and responsibilities. Lead time, price, customs responsibilities and route feasibility belong in the specific offer."
+      {"summary": [
+        "A delivery price combines the product, packaging, transport within China, border operations, the international leg and delivery to destination.",
+        "Delivery terms (Incoterms) define which costs and risks each party carries.",
+        "Compare offers only on the same terms and the same handover point.",
+        "For dangerous goods such as oxidisers, the route and carrier are agreed in advance."
+      ]},
+      "Two prices for the same product can differ by tens of percent — and both be fair. The difference usually lies in what the price includes: the product at a warehouse in China, or the product delivered to your warehouse in Kazakhstan.",
+      {"h2": "What makes up the price"},
+      {"table": {"head": ["Component", "What it includes"], "rows": [
+        ["Product", "grade, specifications, producer, lot size"],
+        ["Packaging", "bags, liners, pallets, bulk bags, marking"],
+        ["Transport in China", "from the producer's warehouse to the border crossing or station"],
+        ["Border operations", "export clearance in China, transshipment, border formalities"],
+        ["International leg", "road or rail transport to Kazakhstan"],
+        ["Transport in Kazakhstan", "to the buyer's warehouse or an agreed point"],
+        ["Import charges", "customs duty and import VAT — usually paid by the importer"],
+        ["Payment and currency", "payment terms, bank charges, exchange-rate risk"]
+      ]}},
+      {"h2": "The Khorgos route"},
+      "The main overland route from western China to Kazakhstan runs through the Khorgos border crossing. A typical sequence:",
+      {"steps": [
+        {"title": "Warehouse in China", "text": "The lot is loaded into a container or truck and export documents are prepared."},
+        {"title": "To the border", "text": "By road or rail to the Khorgos border crossing."},
+        {"title": "Border operations", "text": "Export clearance in China; on rail, transshipment or bogie change because of the different track gauge."},
+        {"title": "Import into Kazakhstan", "text": "EAEU customs clearance: declaration, product documents, payment of import charges."},
+        {"title": "Delivery to the buyer", "text": "Transport to the buyer's warehouse or an agreed point."}
+      ]},
+      "Transit time depends on the transport mode, border congestion and season, so it is stated in each specific offer rather than as a universal figure.",
+      {"h2": "Delivery terms: EXW, FCA, CPT, DAP, DDP"},
+      {"table": {"head": ["Term", "Where the seller delivers", "Main carriage", "Import clearance"], "rows": [
+        ["EXW", "at its premises, not loaded", "buyer", "buyer"],
+        ["FCA", "to the buyer's carrier at a named place", "buyer", "buyer"],
+        ["CPT", "to the first carrier; risk passes on handover", "seller — to the named point", "buyer"],
+        ["DAP", "at the named destination, ready for unloading", "seller", "buyer"],
+        ["DDP", "at destination, import charges paid", "seller", "seller"]
+      ]}},
+      {"note": "\"FCA Khorgos\" and \"DAP Almaty\" prices are not directly comparable: the second already includes transport to Almaty and in-transit risk."},
+      {"h2": "How to compare offers"},
+      {"ul": [
+        "the same delivery terms and handover point;",
+        "the same specification and packaging requirements;",
+        "the same lot size;",
+        "payment terms and currency;",
+        "what is included: documents, marking, insurance;",
+        "the offer's validity period."
+      ]},
+      {"h2": "Dangerous goods"},
+      "Some chemical products are dangerous goods. Sodium chlorate, for example, is a class 5.1 oxidiser (UN 1495). For such cargo the carrier confirms acceptance in advance, and packaging, marking and documents must comply with ADR. Not every route or carrier accepts such cargo — this is reflected in price and timing.",
+      {"apps": [
+        {"icon": "truck", "title": "Transport", "text": "Mode, route and a carrier licensed for the cargo."},
+        {"icon": "document", "title": "Documents", "text": "Export documents, SDS, certificates, EAEU customs documents."},
+        {"icon": "payment", "title": "Payment", "text": "Payment terms, currency, bank charges."}
+      ]}
     ]
-  }
+  },
+  "faq": [
+    {
+      "q": {"ru": "Почему цены разных поставщиков так сильно отличаются?", "en": "Why do suppliers' prices differ so much?"},
+      "a": {"ru": "Чаще всего из-за разных условий поставки, марки, объёма или упаковки. Приведите предложения к одинаковой основе — и разница станет понятнее.", "en": "Most often because of different delivery terms, grade, quantity or packaging. Put offers on the same basis and the difference becomes clear."}
+    },
+    {
+      "q": {"ru": "Входят ли таможенные платежи в цену?", "en": "Are customs charges included in the price?"},
+      "a": {"ru": "Зависит от условий поставки: при FCA, CPT и DAP пошлина и НДС при импорте обычно на стороне покупателя, при DDP — на стороне продавца. Это указывается в предложении.", "en": "It depends on the terms: under FCA, CPT and DAP the buyer usually pays import duty and VAT; under DDP the seller does. The offer states this."}
+    },
+    {
+      "q": {"ru": "Сколько идёт груз из Китая в Казахстан?", "en": "How long does cargo take from China to Kazakhstan?"},
+      "a": {"ru": "Срок зависит от вида транспорта, маршрута и загрузки пограничного перехода; он указывается в конкретном предложении.", "en": "It depends on the transport mode, route and border congestion; it is stated in each specific offer."}
+    },
+    {
+      "q": {"ru": "Можно ли доставить груз до нашего склада?", "en": "Can cargo be delivered to our warehouse?"},
+      "a": {"ru": "Это возможно на условиях DAP с указанием вашего адреса. Возможность и стоимость доставки подтверждаются для каждой партии.", "en": "This is possible under DAP with your address as the named place. Feasibility and cost are confirmed for each lot."}
+    }
+  ]
 }
