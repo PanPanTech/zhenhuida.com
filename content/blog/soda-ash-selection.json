@@ -3,6 +3,7 @@
   "date": "2026-10-11",
   "updated": "2026-10-12",
   "image": "/images/blog/soda-ash/soda-ash-bag-40kg.jpg",
+  "imageFit": "contain",
   "category": {"ru": "Продукция", "en": "Products"},
   "title": {
     "ru": "Как выбрать кальцинированную соду: форма, показатели и упаковка",

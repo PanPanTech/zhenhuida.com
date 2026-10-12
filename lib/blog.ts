@@ -37,6 +37,7 @@ export type Post = {
   updated?: string;
   draft?: boolean;
   image?: string;
+  imageFit?: 'cover' | 'contain'; // contain = product shot shown whole on white (cards default to cover)
   category: Localized<string>;
   title: Localized<string>;
   description: Localized<string>;
@@ -65,6 +66,16 @@ export function getPost(slug: string): Post | undefined {
 
 export function pick<T>(lang: Lang, value: Localized<T>): T {
   return value[lang] ?? value.en;
+}
+
+// Estimated reading time in minutes (~180 words per minute, all text blocks and FAQ).
+export function readingMinutes(post: Post, lang: Lang): number {
+  const texts: string[] = [];
+  const walk = (v: unknown) => { if (typeof v === 'string') texts.push(v); else if (Array.isArray(v)) v.forEach(walk); else if (v && typeof v === 'object') Object.values(v).forEach(walk); };
+  walk(pick(lang, post.body));
+  (post.faq || []).forEach(f => texts.push(pick(lang, f.q), pick(lang, f.a)));
+  const words = texts.join(' ').split(/\s+/).filter(Boolean).length;
+  return Math.max(1, Math.round(words / 180));
 }
 
 // Heading anchor: transliterated, lowercase, hyphenated ("Что такое сода" -> "chto-takoe-soda").
