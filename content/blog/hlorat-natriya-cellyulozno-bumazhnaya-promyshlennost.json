@@ -1,0 +1,326 @@
+{
+  "slug": "hlorat-natriya-cellyulozno-bumazhnaya-promyshlennost",
+  "date": "2026-11-03",
+  "image": "/images/blog/sodium-chlorate/sodium-chlorate-crystals.jpg",
+  "category": {
+    "ru": "Применение",
+    "en": "Applications"
+  },
+  "title": {
+    "ru": "Хлорат натрия в целлюлозно-бумажной промышленности: диоксид хлора и ECF-отбелка",
+    "en": "Sodium chlorate in pulp and paper: chlorine dioxide and ECF bleaching"
+  },
+  "description": {
+    "ru": "Зачем целлюлозным заводам хлорат натрия: получение диоксида хлора на месте, отбелка без элементарного хлора (ECF), требования к продукту и поставке.",
+    "en": "Why pulp mills need sodium chlorate: on-site chlorine dioxide generation, elemental-chlorine-free (ECF) bleaching, product and supply requirements."
+  },
+  "products": [
+    "sodium-chlorate"
+  ],
+  "body": {
+    "ru": [
+      {
+        "summary": [
+          "Основной потребитель хлората натрия — целлюлозные заводы, выпускающие белёную целлюлозу.",
+          "Из хлората на месте получают диоксид хлора (ClO₂) — главный отбеливающий реагент технологии ECF.",
+          "ECF заменила отбелку элементарным хлором и резко снизила образование хлорорганических соединений.",
+          "Для завода важны стабильные показатели партии, непрерывность поставок и правильная логистика опасного груза."
+        ]
+      },
+      "Белая бумага, картон для пищевой упаковки, гигиенические изделия делаются из белёной целлюлозы. Чтобы получить её, природный цвет древесной массы нужно удалить — и в современной технологии это делается в основном диоксидом хлора, который производят из хлората натрия прямо на целлюлозном заводе.",
+      {
+        "h2": "Почему диоксид хлора, а не хлор"
+      },
+      "До 1990-х годов целлюлозу широко отбеливали элементарным хлором. При этом образовывалось много хлорорганических соединений, включая токсичные диоксины. Переход на технологию ECF (elemental chlorine free — без элементарного хлора), где основным реагентом служит диоксид хлора, многократно снизил эти выбросы. Сегодня ECF — самая распространённая технология отбелки сульфатной целлюлозы в мире.",
+      {
+        "table": {
+          "head": [
+            "",
+            "Отбелка элементарным хлором",
+            "ECF (диоксид хлора)",
+            "TCF"
+          ],
+          "rows": [
+            [
+              "Основной реагент",
+              "хлор Cl₂",
+              "диоксид хлора ClO₂",
+              "кислород, озон, пероксид"
+            ],
+            [
+              "Хлорорганические соединения",
+              "много",
+              "значительно меньше",
+              "практически нет"
+            ],
+            [
+              "Белизна и прочность волокна",
+              "высокие",
+              "высокие",
+              "прочность ниже"
+            ],
+            [
+              "Распространение сегодня",
+              "почти не применяется",
+              "основная технология",
+              "отдельные заводы"
+            ]
+          ]
+        }
+      },
+      {
+        "h2": "Как диоксид хлора получают из хлората"
+      },
+      "Диоксид хлора — неустойчивый газ, его нельзя перевозить. Поэтому на каждом целлюлозном заводе с ECF-отбелкой есть собственная установка-генератор, куда поступает хлорат натрия. Принципиальная схема:",
+      {
+        "steps": [
+          {
+            "title": "Подготовка раствора",
+            "text": "Кристаллический хлорат натрия растворяют; заводы рядом с производителем могут получать готовый раствор."
+          },
+          {
+            "title": "Реакция в генераторе",
+            "text": "Хлорат восстанавливают в сильнокислой среде (обычно серная кислота) с восстановителем — метанолом или пероксидом водорода."
+          },
+          {
+            "title": "Абсорбция",
+            "text": "Образующийся газ ClO₂ поглощают охлаждённой водой и получают раствор для отбелки."
+          },
+          {
+            "title": "Отбелка",
+            "text": "Раствор ClO₂ подают на ступени отбелки, которые чередуются со щелочной экстракцией (например, последовательность D–EOP–D)."
+          }
+        ]
+      },
+      "Побочный продукт генератора — сульфат натрия — на сульфатно-целлюлозных заводах обычно возвращается в цикл регенерации химикатов.",
+      {
+        "img": "/images/blog/sodium-chlorate/sodium-chlorate-crystals.jpg",
+        "alt": "Кристаллы хлората натрия",
+        "caption": "Для генераторов диоксида хлора хлорат натрия поставляют в кристаллическом виде или раствором.",
+        "credit": "Фото: Chemicalinterest, общественное достояние",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Sodium_chlorate_crystals.JPG"
+      },
+      {
+        "h2": "Требования к хлорату натрия для целлюлозного завода"
+      },
+      {
+        "ul": [
+          "стабильное содержание основного вещества от партии к партии;",
+          "согласованные пределы по хлоридам, влаге и другим примесям, критичным для работы генератора;",
+          "форма поставки — кристаллический продукт в мешках или биг-бэгах; раствор — только на короткие расстояния;",
+          "непрерывность поставок: остановка генератора означает остановку отбелки, поэтому важен страховой запас;",
+          "логистика опасного груза: UN 1495, класс 5.1, допуск перевозчика, сертифицированная упаковка."
+        ]
+      },
+      {
+        "note": "Точные требования к примесям определяются типом генератора и технологией завода. Укажите их в запросе — показатели сверяются с TDS и COA до заключения договора."
+      },
+      {
+        "h2": "Как планировать закупки"
+      },
+      {
+        "table": {
+          "head": [
+            "Вопрос",
+            "Что учесть"
+          ],
+          "rows": [
+            [
+              "Объём",
+              "месячное потребление генератора и размер страхового запаса"
+            ],
+            [
+              "Периодичность",
+              "регулярные партии по графику, а не разовые закупки"
+            ],
+            [
+              "Маршрут",
+              "перевозчик с допуском к грузам класса 5.1; срок в пути с запасом"
+            ],
+            [
+              "Хранение",
+              "отдельный склад окислителей, вдали от горючих материалов и кислот"
+            ],
+            [
+              "Документы",
+              "SDS, COA, документы на опасный груз, таможенные документы"
+            ]
+          ]
+        }
+      }
+    ],
+    "en": [
+      {
+        "summary": [
+          "The main users of sodium chlorate are pulp mills producing bleached pulp.",
+          "Chlorine dioxide (ClO₂), the key bleaching agent in ECF technology, is generated from chlorate on site.",
+          "ECF replaced bleaching with elemental chlorine and sharply cut chlorinated organic compounds.",
+          "Mills need consistent lot quality, uninterrupted supply and proper dangerous-goods logistics."
+        ]
+      },
+      "White paper, food-grade board and hygiene products are made from bleached pulp. To get it, the natural colour of wood pulp must be removed — and modern mills do this mainly with chlorine dioxide, produced from sodium chlorate right at the mill.",
+      {
+        "h2": "Why chlorine dioxide rather than chlorine"
+      },
+      "Until the 1990s pulp was widely bleached with elemental chlorine, which formed large amounts of chlorinated organics, including toxic dioxins. The switch to ECF (elemental chlorine free) bleaching, based on chlorine dioxide, cut these emissions many times over. Today ECF is the world's most common bleaching technology for kraft pulp.",
+      {
+        "table": {
+          "head": [
+            "",
+            "Elemental chlorine",
+            "ECF (chlorine dioxide)",
+            "TCF"
+          ],
+          "rows": [
+            [
+              "Main agent",
+              "chlorine Cl₂",
+              "chlorine dioxide ClO₂",
+              "oxygen, ozone, peroxide"
+            ],
+            [
+              "Chlorinated organics",
+              "high",
+              "much lower",
+              "practically none"
+            ],
+            [
+              "Brightness and fibre strength",
+              "high",
+              "high",
+              "lower strength"
+            ],
+            [
+              "Use today",
+              "almost abandoned",
+              "main technology",
+              "some mills"
+            ]
+          ]
+        }
+      },
+      {
+        "h2": "How chlorine dioxide is made from chlorate"
+      },
+      "Chlorine dioxide is an unstable gas and cannot be transported. Every ECF mill therefore has its own generator fed with sodium chlorate. In principle:",
+      {
+        "steps": [
+          {
+            "title": "Solution preparation",
+            "text": "Crystalline sodium chlorate is dissolved; mills close to a producer may receive ready solution."
+          },
+          {
+            "title": "Generator reaction",
+            "text": "Chlorate is reduced in a strongly acidic medium (usually sulphuric acid) with a reducing agent — methanol or hydrogen peroxide."
+          },
+          {
+            "title": "Absorption",
+            "text": "The ClO₂ gas is absorbed in chilled water to make bleaching solution."
+          },
+          {
+            "title": "Bleaching",
+            "text": "ClO₂ solution is fed to bleaching stages alternating with alkaline extraction (for example a D–EOP–D sequence)."
+          }
+        ]
+      },
+      "The generator by-product, sodium sulphate, is usually returned to the chemical recovery cycle at kraft mills.",
+      {
+        "img": "/images/blog/sodium-chlorate/sodium-chlorate-crystals.jpg",
+        "alt": "Sodium chlorate crystals",
+        "caption": "For chlorine dioxide generators, sodium chlorate is supplied as crystals or as solution.",
+        "credit": "Photo: Chemicalinterest, public domain",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Sodium_chlorate_crystals.JPG"
+      },
+      {
+        "h2": "Sodium chlorate requirements for a pulp mill"
+      },
+      {
+        "ul": [
+          "consistent assay from lot to lot;",
+          "agreed limits on chlorides, moisture and other impurities critical for the generator;",
+          "form of supply — crystals in bags or bulk bags; solution only over short distances;",
+          "uninterrupted supply: a generator stop means a bleaching stop, so a safety stock matters;",
+          "dangerous-goods logistics: UN 1495, class 5.1, licensed carrier, certified packaging."
+        ]
+      },
+      {
+        "note": "Exact impurity limits depend on the generator type and mill process. State them in your inquiry — values are checked against the TDS and COA before contracting."
+      },
+      {
+        "h2": "Planning purchases"
+      },
+      {
+        "table": {
+          "head": [
+            "Question",
+            "What to consider"
+          ],
+          "rows": [
+            [
+              "Volume",
+              "monthly generator consumption and safety stock"
+            ],
+            [
+              "Frequency",
+              "scheduled regular lots rather than one-off purchases"
+            ],
+            [
+              "Route",
+              "a carrier licensed for class 5.1; transit time with a margin"
+            ],
+            [
+              "Storage",
+              "a separate oxidiser store, away from combustibles and acids"
+            ],
+            [
+              "Documents",
+              "SDS, COA, dangerous-goods documents, customs documents"
+            ]
+          ]
+        }
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": {
+        "ru": "Зачем целлюлозному заводу хлорат натрия?",
+        "en": "Why does a pulp mill need sodium chlorate?"
+      },
+      "a": {
+        "ru": "Из него на месте получают диоксид хлора — основной отбеливающий реагент технологии ECF. Диоксид хлора нельзя перевозить, поэтому завод закупает хлорат натрия.",
+        "en": "It is used on site to generate chlorine dioxide, the main bleaching agent in ECF. Chlorine dioxide cannot be transported, so mills buy sodium chlorate."
+      }
+    },
+    {
+      "q": {
+        "ru": "Что такое ECF-отбелка?",
+        "en": "What is ECF bleaching?"
+      },
+      "a": {
+        "ru": "Отбелка целлюлозы без элементарного хлора, где основным реагентом служит диоксид хлора. Она резко снижает образование хлорорганических соединений.",
+        "en": "Pulp bleaching without elemental chlorine, using chlorine dioxide as the main agent. It sharply reduces chlorinated organic compounds."
+      }
+    },
+    {
+      "q": {
+        "ru": "В каком виде поставляют хлорат натрия?",
+        "en": "In what form is sodium chlorate supplied?"
+      },
+      "a": {
+        "ru": "Для дальних поставок — в кристаллическом виде в мешках или биг-бэгах, как опасный груз класса 5.1. Раствор возят только на короткие расстояния.",
+        "en": "For long distances — as crystals in bags or bulk bags, shipped as class 5.1 dangerous goods. Solution is moved only over short distances."
+      }
+    },
+    {
+      "q": {
+        "ru": "Что такое TCF?",
+        "en": "What is TCF?"
+      },
+      "a": {
+        "ru": "Totally chlorine free — отбелка вообще без соединений хлора: кислородом, озоном и пероксидом. Применяется на отдельных заводах, но по распространённости уступает ECF.",
+        "en": "Totally chlorine free — bleaching with no chlorine compounds at all, using oxygen, ozone and peroxide. Some mills use it, but it is far less common than ECF."
+      }
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "slug": "kak-vybrat-postavshchika-himicheskogo-syrya-v-kitae",
+  "date": "2026-10-22",
+  "image": "/images/expo/booth.jpg",
+  "category": {
+    "ru": "Закупки",
+    "en": "Procurement"
+  },
+  "title": {
+    "ru": "Как выбрать поставщика химического сырья в Китае: проверка за 7 шагов",
+    "en": "How to choose a chemical raw material supplier in China: a 7-step check"
+  },
+  "description": {
+    "ru": "Как проверить поставщика химического сырья из Китая: регистрация компании, лицензии, производитель, документы TDS, SDS и COA, инспекция, оплата и пробная партия.",
+    "en": "How to vet a Chinese chemical supplier: company registration, licences, the producer, TDS, SDS and COA, inspection, payment and a trial lot."
+  },
+  "products": [],
+  "body": {
+    "ru": [
+      {
+        "summary": [
+          "Проверьте регистрацию компании по единому коду социального кредита в официальной базе Китая.",
+          "Узнайте, кто производитель, и запросите документы производителя: TDS, SDS, COA.",
+          "Для контролируемых и опасных химикатов поставщик обязан спросить о назначении продукта — это хороший знак.",
+          "Начните с пробной партии, независимой инспекции и банковской оплаты по договору."
+        ]
+      },
+      "Китай — крупнейший производитель базовой химии, и выбор поставщиков огромен: от заводов до небольших посредников. Хороший поставщик экономит месяцы, ненадёжный — приносит потерю предоплаты или партию, которая не проходит входной контроль. Ниже — практический порядок проверки.",
+      {
+        "h2": "7 шагов проверки поставщика"
+      },
+      {
+        "steps": [
+          {
+            "title": "Сформулируйте требования",
+            "text": "Продукт, марка, показатели, объём, упаковка, место доставки и документы. Без этого невозможно сравнить поставщиков."
+          },
+          {
+            "title": "Проверьте регистрацию компании",
+            "text": "Попросите 18-значный единый код социального кредита и сверьте название, адрес, статус и сферу деятельности в национальной системе информации о предприятиях Китая (gsxt.gov.cn)."
+          },
+          {
+            "title": "Производитель или торговая компания",
+            "text": "Оба варианта нормальны. Важно знать, кто производит продукт, и получать документы именно производителя."
+          },
+          {
+            "title": "Лицензии для особых продуктов",
+            "text": "Для опасных химикатов поставщик должен иметь разрешение на торговлю ими, а для контролируемых — проверять покупателя и назначение продукта."
+          },
+          {
+            "title": "Документы на продукт",
+            "text": "TDS, SDS и образец COA; при необходимости — образец продукции для лабораторной проверки."
+          },
+          {
+            "title": "Независимая инспекция",
+            "text": "Перед отгрузкой можно заказать отбор проб и проверку партии у независимой инспекционной компании."
+          },
+          {
+            "title": "Договор и пробная партия",
+            "text": "Письменный договор с условиями Инкотермс, требованиями к качеству и порядком рекламаций; первая партия — небольшая."
+          }
+        ]
+      },
+      {
+        "img": "/images/expo/booth.jpg",
+        "alt": "Стенд с каталогами и образцами химического сырья на выставке",
+        "caption": "Выставки — удобный способ лично познакомиться с поставщиком. Стенд провинции Цинхай, Алматы, 2026 г."
+      },
+      {
+        "h2": "Тревожные признаки"
+      },
+      {
+        "table": {
+          "head": [
+            "Признак",
+            "Почему это риск"
+          ],
+          "rows": [
+            [
+              "Цена заметно ниже рынка",
+              "часто означает другую марку, примеси, недовес или схему с предоплатой"
+            ],
+            [
+              "Нет документов производителя",
+              "невозможно подтвердить происхождение и показатели партии"
+            ],
+            [
+              "Оплата на личный счёт или наличными",
+              "нет защиты сделки; для контролируемых веществ это нарушение правил"
+            ],
+            [
+              "Отказ от независимой инспекции",
+              "качество партии проверить до отгрузки нельзя"
+            ],
+            [
+              "Для контролируемого продукта не спрашивают о назначении",
+              "поставщик не соблюдает обязательные требования — рискованный партнёр"
+            ],
+            [
+              "Нет письменного договора",
+              "нечем подтвердить условия качества, сроков и рекламаций"
+            ]
+          ]
+        }
+      },
+      {
+        "h2": "Производитель или торговая компания: что выбрать"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Завод",
+            "Торговая компания"
+          ],
+          "rows": [
+            [
+              "Объём",
+              "обычно крупные партии",
+              "гибче к небольшим объёмам"
+            ],
+            [
+              "Ассортимент",
+              "свои продукты",
+              "несколько продуктов от разных заводов"
+            ],
+            [
+              "Экспорт",
+              "не все заводы работают с экспортом",
+              "берёт на себя документы, логистику, общение"
+            ],
+            [
+              "Что проверить",
+              "экспортный опыт, отдел качества",
+              "прозрачность: кто производитель, чьи документы"
+            ]
+          ]
+        }
+      },
+      {
+        "note": "Qinghai Zhenhuida — торговая компания. Производитель, документы производителя, инспекция и условия поставки согласуются по каждому заказу до заключения договора."
+      },
+      {
+        "h2": "Оплата и договор"
+      },
+      {
+        "ul": [
+          "оплата только банковским переводом на счёт компании, указанной в договоре;",
+          "условия оплаты: предоплата, частичная предоплата или аккредитив — по согласованию;",
+          "в договоре — продукт, показатели, допуски, упаковка, Инкотермс, сроки, порядок приёмки и рекламаций, применимое право и арбитраж;",
+          "язык договора — русский и/или английский с китайским переводом."
+        ]
+      }
+    ],
+    "en": [
+      {
+        "summary": [
+          "Check the company's registration by its unified social credit code in China's official database.",
+          "Find out who the producer is and request the producer's documents: TDS, SDS, COA.",
+          "For controlled and dangerous chemicals, the supplier must ask about intended use — a good sign.",
+          "Start with a trial lot, independent inspection and bank payment under a contract."
+        ]
+      },
+      "China is the largest producer of basic chemicals, and the choice of suppliers is huge — from plants to small intermediaries. A good supplier saves months; an unreliable one costs you a prepayment or a lot that fails incoming inspection. Here is a practical vetting sequence.",
+      {
+        "h2": "7 steps to vet a supplier"
+      },
+      {
+        "steps": [
+          {
+            "title": "Define your requirements",
+            "text": "Product, grade, values, quantity, packaging, delivery point and documents. Without these, suppliers cannot be compared."
+          },
+          {
+            "title": "Check company registration",
+            "text": "Ask for the 18-character unified social credit code and verify name, address, status and business scope in China's national enterprise information system (gsxt.gov.cn)."
+          },
+          {
+            "title": "Producer or trading company",
+            "text": "Both are fine. What matters is knowing who makes the product and receiving the producer's documents."
+          },
+          {
+            "title": "Licences for special products",
+            "text": "For dangerous chemicals the supplier needs a trading permit; for controlled ones it must vet the buyer and intended use."
+          },
+          {
+            "title": "Product documents",
+            "text": "TDS, SDS and a sample COA; if needed, a product sample for lab testing."
+          },
+          {
+            "title": "Independent inspection",
+            "text": "Before dispatch you can order sampling and lot inspection from an independent inspection company."
+          },
+          {
+            "title": "Contract and trial lot",
+            "text": "A written contract with Incoterms, quality requirements and a claims procedure; keep the first lot small."
+          }
+        ]
+      },
+      {
+        "img": "/images/expo/booth.jpg",
+        "alt": "Stand with catalogues and chemical samples at an exhibition",
+        "caption": "Trade shows are a convenient way to meet a supplier in person. Qinghai province stand, Almaty, 2026."
+      },
+      {
+        "h2": "Warning signs"
+      },
+      {
+        "table": {
+          "head": [
+            "Sign",
+            "Why it is a risk"
+          ],
+          "rows": [
+            [
+              "Price well below market",
+              "often means another grade, impurities, short weight or a prepayment scheme"
+            ],
+            [
+              "No producer documents",
+              "origin and lot values cannot be confirmed"
+            ],
+            [
+              "Payment to a personal account or in cash",
+              "no deal protection; for controlled substances it breaks the rules"
+            ],
+            [
+              "Refusal of independent inspection",
+              "lot quality cannot be checked before dispatch"
+            ],
+            [
+              "No questions about intended use for a controlled product",
+              "the supplier ignores mandatory requirements — a risky partner"
+            ],
+            [
+              "No written contract",
+              "nothing to back quality, timing and claims terms"
+            ]
+          ]
+        }
+      },
+      {
+        "h2": "Producer or trading company?"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Plant",
+            "Trading company"
+          ],
+          "rows": [
+            [
+              "Volume",
+              "usually large lots",
+              "more flexible with small volumes"
+            ],
+            [
+              "Range",
+              "own products",
+              "several products from different plants"
+            ],
+            [
+              "Export",
+              "not all plants handle export",
+              "handles documents, logistics, communication"
+            ],
+            [
+              "What to check",
+              "export experience, quality department",
+              "transparency: who is the producer, whose documents"
+            ]
+          ]
+        }
+      },
+      {
+        "note": "Qinghai Zhenhuida is a trading company. The producer, producer documents, inspection and delivery terms are agreed for each order before contracting."
+      },
+      {
+        "h2": "Payment and contract"
+      },
+      {
+        "ul": [
+          "pay only by bank transfer to the account of the company named in the contract;",
+          "payment terms: prepayment, partial prepayment or letter of credit — by agreement;",
+          "the contract should cover product, values, tolerances, packaging, Incoterms, timing, acceptance and claims, governing law and arbitration;",
+          "contract language: Russian and/or English with a Chinese translation."
+        ]
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": {
+        "ru": "Как проверить китайскую компанию?",
+        "en": "How do I check a Chinese company?"
+      },
+      "a": {
+        "ru": "Попросите единый код социального кредита (18 знаков) и сверьте данные в национальной системе информации о предприятиях Китая: название, адрес, статус, сферу деятельности.",
+        "en": "Ask for the 18-character unified social credit code and verify the name, address, status and business scope in China's national enterprise information system."
+      }
+    },
+    {
+      "q": {
+        "ru": "Лучше работать с заводом или с торговой компанией?",
+        "en": "Is it better to work with a plant or a trading company?"
+      },
+      "a": {
+        "ru": "Зависит от объёма и задач. Завод выгоден для крупных регулярных партий, торговая компания — для гибких объёмов и комплексного сервиса. В обоих случаях нужны документы производителя.",
+        "en": "It depends on volume and needs. A plant suits large regular lots; a trading company suits flexible volumes and full service. Either way you need the producer's documents."
+      }
+    },
+    {
+      "q": {
+        "ru": "Нужна ли независимая инспекция?",
+        "en": "Do I need independent inspection?"
+      },
+      "a": {
+        "ru": "Для первой партии и крупных заказов — желательно. Инспекция подтверждает количество, упаковку и показатели до отгрузки.",
+        "en": "For the first lot and large orders it is advisable. Inspection confirms quantity, packaging and values before dispatch."
+      }
+    },
+    {
+      "q": {
+        "ru": "Почему поставщик спрашивает о назначении продукта?",
+        "en": "Why does a supplier ask about intended use?"
+      },
+      "a": {
+        "ru": "Для контролируемых химикатов, например хлоратов и перхлоратов, это обязательное требование. Поставщик, который этого не делает, нарушает правила.",
+        "en": "For controlled chemicals such as chlorates and perchlorates it is mandatory. A supplier who does not ask is breaking the rules."
+      }
+    }
+  ]
+}

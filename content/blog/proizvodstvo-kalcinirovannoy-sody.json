@@ -1,0 +1,282 @@
+{
+  "slug": "proizvodstvo-kalcinirovannoy-sody",
+  "date": "2026-10-29",
+  "image": "/images/blog/soda-ash/soda-ash-plant.jpg",
+  "category": {
+    "ru": "Продукция",
+    "en": "Products"
+  },
+  "title": {
+    "ru": "Производство кальцинированной соды: метод Сольве, комбинированный метод и природная сода",
+    "en": "How soda ash is made: the Solvay process, the combined process and natural soda"
+  },
+  "description": {
+    "ru": "Как получают кальцинированную соду: стадии метода Сольве, комбинированный метод с хлоридом аммония, переработка троны и как получают тяжёлую соду.",
+    "en": "How soda ash is produced: the stages of the Solvay process, the combined process with ammonium chloride, trona processing and how dense ash is made."
+  },
+  "products": [
+    "soda-ash"
+  ],
+  "body": {
+    "ru": [
+      {
+        "summary": [
+          "Большую часть синтетической соды получают аммиачным методом Сольве из поваренной соли и известняка.",
+          "Комбинированный метод, распространённый в Китае, вместо отхода хлорида кальция даёт хлорид аммония — удобрение.",
+          "В ряде стран соду получают из природного минерала троны.",
+          "Тяжёлую соду делают из лёгкой: через моногидрат с последующей кальцинацией."
+        ]
+      },
+      "Кальцинированная сода — один из старейших продуктов химической промышленности. Способ производства влияет на себестоимость, побочные продукты и иногда на примеси в готовой соде. Покупателю полезно понимать, откуда берётся продукт.",
+      {
+        "h2": "Метод Сольве (аммиачный)"
+      },
+      "Метод, разработанный Эрнестом Сольве в 1860-х годах, до сих пор остаётся основным способом получения синтетической соды. Сырьё — поваренная соль, известняк и аммиак, который почти полностью возвращается в цикл.",
+      {
+        "steps": [
+          {
+            "title": "Очистка рассола",
+            "text": "Из раствора поваренной соли удаляют соли кальция и магния."
+          },
+          {
+            "title": "Аммонизация",
+            "text": "Рассол насыщают аммиаком."
+          },
+          {
+            "title": "Карбонизация",
+            "text": "Через аммонизированный рассол пропускают углекислый газ; в осадок выпадает гидрокарбонат натрия NaHCO₃."
+          },
+          {
+            "title": "Фильтрация",
+            "text": "Кристаллы гидрокарбоната отделяют от раствора хлорида аммония."
+          },
+          {
+            "title": "Кальцинация",
+            "text": "Гидрокарбонат прокаливают: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. Углекислый газ возвращают на карбонизацию."
+          },
+          {
+            "title": "Регенерация аммиака",
+            "text": "Раствор хлорида аммония обрабатывают известковым молоком, аммиак возвращают в цикл; отход — раствор хлорида кальция."
+          }
+        ]
+      },
+      "Углекислый газ и известь для процесса получают обжигом известняка: CaCO₃ → CaO + CO₂. Поэтому содовые заводы обычно строят рядом с месторождениями соли и известняка.",
+      {
+        "img": "/images/blog/soda-ash/soda-ash-plant.jpg",
+        "alt": "Вид с воздуха на содовое производство и технологические отстойники",
+        "caption": "Содовое производство по методу Сольве (Домбаль-сюр-Мёрт, Франция): видны технологические отстойники.",
+        "credit": "Фото: Jeroen Komen, CC BY-SA 2.0",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Production_site_for_sodium_carbonate_near_Dombasle-sur-Meurthe_France_(19630816513).jpg"
+      },
+      {
+        "h2": "Комбинированный метод"
+      },
+      "В комбинированном методе (его разработал китайский химик Хоу Дэбан) аммиак не регенерируют известью: из раствора выделяют хлорид аммония NH₄Cl, который используют как азотное удобрение. Отхода хлорида кальция нет, а выход полезной продукции выше. Метод широко применяется в Китае — крупнейшем производителе соды в мире.",
+      {
+        "h2": "Природная сода"
+      },
+      "Соду можно получать из минерала троны (Na₂CO₃·NaHCO₃·2H₂O) и содовых рассолов. Руду растворяют, очищают и кальцинируют. Крупнейшие месторождения троны находятся в США; природную соду добывают также в Турции, Китае и ряде других стран. Себестоимость такого производства обычно ниже, а отходов меньше.",
+      {
+        "h2": "Сравнение способов"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Метод Сольве",
+            "Комбинированный",
+            "Природная сода"
+          ],
+          "rows": [
+            [
+              "Сырьё",
+              "соль, известняк, аммиак",
+              "соль, аммиак, CO₂",
+              "трона, содовые рассолы"
+            ],
+            [
+              "Побочный продукт",
+              "хлорид кальция (отход)",
+              "хлорид аммония (удобрение)",
+              "минимум"
+            ],
+            [
+              "Где распространён",
+              "Европа, Россия, многие страны",
+              "Китай",
+              "США, Турция, Китай"
+            ],
+            [
+              "Особенность",
+              "отработанная технология",
+              "два товарных продукта",
+              "низкая себестоимость"
+            ]
+          ]
+        }
+      },
+      {
+        "h2": "Как получают тяжёлую соду"
+      },
+      "Все способы сначала дают лёгкую соду. Чтобы получить тяжёлую (плотную), лёгкую соду увлажняют до образования моногидрата Na₂CO₃·H₂O, а затем снова прокаливают. Частицы становятся крупнее и плотнее: насыпная плотность растёт примерно с 0,5–0,6 до 0,9–1,1 т/м³.",
+      {
+        "h2": "Сода в Китае и в Цинхае"
+      },
+      "Китай производит больше кальцинированной соды, чем любая другая страна, и использует все три способа. В провинции Цинхай содовые производства опираются на соль солёных озёр Цайдамской котловины и местный известняк.",
+      {
+        "note": "Способ производства указывают в документах производителя. Для покупателя главное — фактические показатели партии по TDS и COA: содержание Na₂CO₃, хлориды, железо, нерастворимый остаток."
+      }
+    ],
+    "en": [
+      {
+        "summary": [
+          "Most synthetic soda ash is made by the Solvay ammonia-soda process from salt and limestone.",
+          "The combined process, common in China, yields ammonium chloride — a fertiliser — instead of calcium chloride waste.",
+          "Some countries produce soda ash from the natural mineral trona.",
+          "Dense ash is made from light ash via the monohydrate and recalcination."
+        ]
+      },
+      "Soda ash is one of the oldest products of the chemical industry. The production route affects cost, by-products and sometimes impurities in the finished product, so buyers benefit from knowing where it comes from.",
+      {
+        "h2": "The Solvay (ammonia-soda) process"
+      },
+      "Developed by Ernest Solvay in the 1860s, it remains the main route to synthetic soda ash. The raw materials are salt, limestone and ammonia, which is almost entirely recycled.",
+      {
+        "steps": [
+          {
+            "title": "Brine purification",
+            "text": "Calcium and magnesium salts are removed from salt brine."
+          },
+          {
+            "title": "Ammoniation",
+            "text": "The brine is saturated with ammonia."
+          },
+          {
+            "title": "Carbonation",
+            "text": "Carbon dioxide is passed through the ammoniated brine; sodium bicarbonate NaHCO₃ precipitates."
+          },
+          {
+            "title": "Filtration",
+            "text": "Bicarbonate crystals are separated from the ammonium chloride solution."
+          },
+          {
+            "title": "Calcination",
+            "text": "The bicarbonate is calcined: 2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. The CO₂ goes back to carbonation."
+          },
+          {
+            "title": "Ammonia recovery",
+            "text": "The ammonium chloride solution is treated with milk of lime and ammonia is recycled; the waste is calcium chloride solution."
+          }
+        ]
+      },
+      "Carbon dioxide and lime come from burning limestone: CaCO₃ → CaO + CO₂. Soda plants are therefore usually built near salt and limestone deposits.",
+      {
+        "img": "/images/blog/soda-ash/soda-ash-plant.jpg",
+        "alt": "Aerial view of a soda ash plant and its process settling ponds",
+        "caption": "Solvay-process soda ash site (Dombasle-sur-Meurthe, France), showing the process settling ponds.",
+        "credit": "Photo: Jeroen Komen, CC BY-SA 2.0",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Production_site_for_sodium_carbonate_near_Dombasle-sur-Meurthe_France_(19630816513).jpg"
+      },
+      {
+        "h2": "The combined process"
+      },
+      "In the combined process (developed by Chinese chemist Hou Debang), ammonia is not recovered with lime: ammonium chloride NH₄Cl is crystallised from the solution and sold as a nitrogen fertiliser. There is no calcium chloride waste and more useful product. The process is widely used in China, the world's largest soda ash producer.",
+      {
+        "h2": "Natural soda"
+      },
+      "Soda ash can be made from the mineral trona (Na₂CO₃·NaHCO₃·2H₂O) and soda brines: the ore is dissolved, purified and calcined. The largest trona deposits are in the USA; natural soda is also produced in Turkey, China and other countries. Costs are usually lower and there is less waste.",
+      {
+        "h2": "The routes compared"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Solvay",
+            "Combined",
+            "Natural soda"
+          ],
+          "rows": [
+            [
+              "Raw materials",
+              "salt, limestone, ammonia",
+              "salt, ammonia, CO₂",
+              "trona, soda brines"
+            ],
+            [
+              "By-product",
+              "calcium chloride (waste)",
+              "ammonium chloride (fertiliser)",
+              "minimal"
+            ],
+            [
+              "Where common",
+              "Europe, Russia, many countries",
+              "China",
+              "USA, Turkey, China"
+            ],
+            [
+              "Feature",
+              "proven technology",
+              "two saleable products",
+              "low cost"
+            ]
+          ]
+        }
+      },
+      {
+        "h2": "How dense soda ash is made"
+      },
+      "All routes first produce light ash. To make dense ash, light ash is moistened to form the monohydrate Na₂CO₃·H₂O and then calcined again. Particles become larger and denser: bulk density rises from about 0.5–0.6 to 0.9–1.1 t/m³.",
+      {
+        "h2": "Soda ash in China and Qinghai"
+      },
+      "China produces more soda ash than any other country and uses all three routes. In Qinghai province, soda plants draw on salt from the salt lakes of the Qaidam Basin and on local limestone.",
+      {
+        "note": "The production route is stated in the producer's documents. What matters to the buyer are the actual lot values in the TDS and COA: Na₂CO₃ content, chlorides, iron, insoluble matter."
+      }
+    ]
+  },
+  "faq": [
+    {
+      "q": {
+        "ru": "Из чего делают кальцинированную соду?",
+        "en": "What is soda ash made from?"
+      },
+      "a": {
+        "ru": "Синтетическую соду — из поваренной соли и известняка (метод Сольве) или из соли, аммиака и углекислого газа (комбинированный метод). Природную — из минерала троны.",
+        "en": "Synthetic soda ash is made from salt and limestone (Solvay) or from salt, ammonia and CO₂ (combined process); natural soda ash from the mineral trona."
+      }
+    },
+    {
+      "q": {
+        "ru": "Почему соду называют кальцинированной?",
+        "en": "Why is it called calcined soda?"
+      },
+      "a": {
+        "ru": "Потому что на последней стадии гидрокарбонат натрия прокаливают — кальцинируют, получая безводный карбонат натрия.",
+        "en": "Because in the final stage sodium bicarbonate is calcined (roasted) to give anhydrous sodium carbonate."
+      }
+    },
+    {
+      "q": {
+        "ru": "Влияет ли способ производства на качество?",
+        "en": "Does the production route affect quality?"
+      },
+      "a": {
+        "ru": "Способ может влиять на отдельные примеси, но качество определяется фактическими показателями партии. Сравнивайте соду по TDS и COA.",
+        "en": "The route can affect certain impurities, but quality is defined by actual lot values. Compare soda ash by TDS and COA."
+      }
+    },
+    {
+      "q": {
+        "ru": "Чем тяжёлая сода отличается по производству?",
+        "en": "How is dense ash produced differently?"
+      },
+      "a": {
+        "ru": "Её получают из лёгкой соды через моногидрат и повторную кальцинацию, поэтому она плотнее и обычно дороже.",
+        "en": "It is made from light ash via the monohydrate and recalcination, so it is denser and usually costs more."
+      }
+    }
+  ]
+}

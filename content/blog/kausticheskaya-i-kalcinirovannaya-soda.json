@@ -1,0 +1,292 @@
+{
+  "slug": "kausticheskaya-i-kalcinirovannaya-soda",
+  "date": "2026-10-20",
+  "image": "/images/blog/soda-ash/soda-ash-powder.jpg",
+  "category": {
+    "ru": "Продукция",
+    "en": "Products"
+  },
+  "title": {
+    "ru": "Каустическая и кальцинированная сода: в чём разница и что выбрать",
+    "en": "Caustic soda vs soda ash: the difference and which to choose"
+  },
+  "description": {
+    "ru": "Чем каустическая сода (NaOH) отличается от кальцинированной (Na₂CO₃), кристаллической и пищевой: формулы, щёлочность, опасность, применение и возможность замены.",
+    "en": "How caustic soda (NaOH) differs from soda ash (Na₂CO₃), washing soda and baking soda: formulas, alkalinity, hazards, uses and whether one can replace another."
+  },
+  "products": [
+    "soda-ash"
+  ],
+  "body": {
+    "ru": [
+      {
+        "summary": [
+          "Каустическая сода — гидроксид натрия (NaOH), едкая щёлочь. Кальцинированная сода — карбонат натрия (Na₂CO₃), более мягкое основание.",
+          "Каустик вызывает химические ожоги и перевозится как опасный груз класса 8; кальцинированная сода опасным грузом не является.",
+          "Их получают разными способами и применяют в разных процессах. Заменить одно другим можно лишь в отдельных случаях.",
+          "Есть ещё кристаллическая сода (Na₂CO₃·10H₂O) и пищевая сода (NaHCO₃) — это тоже разные продукты."
+        ]
+      },
+      "Слово «сода» в закупках означает как минимум четыре разных вещества. Ошибка в названии приводит к неверному предложению, а иногда и к проблемам с перевозкой: каустическая сода — опасный груз, кальцинированная — нет. Ниже — короткое сравнение, которое поможет правильно сформулировать запрос.",
+      {
+        "h2": "Сравнение четырёх видов соды"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Кальцинированная",
+            "Кристаллическая",
+            "Пищевая",
+            "Каустическая"
+          ],
+          "rows": [
+            [
+              "Вещество",
+              "карбонат натрия",
+              "декагидрат карбоната натрия",
+              "гидрокарбонат натрия",
+              "гидроксид натрия"
+            ],
+            [
+              "Формула",
+              "Na₂CO₃",
+              "Na₂CO₃·10H₂O",
+              "NaHCO₃",
+              "NaOH"
+            ],
+            [
+              "Другие названия",
+              "сода, soda ash",
+              "стиральная сода",
+              "питьевая сода",
+              "каустик, едкий натр"
+            ],
+            [
+              "Щёлочность (раствор 1%)",
+              "сильная, pH ≈ 11",
+              "как у кальцинированной, но вещества меньше",
+              "слабая, pH ≈ 8",
+              "очень сильная, pH ≈ 13"
+            ],
+            [
+              "Опасность",
+              "раздражает глаза",
+              "раздражает глаза",
+              "практически безопасна",
+              "вызывает химические ожоги"
+            ],
+            [
+              "Опасный груз",
+              "нет",
+              "нет",
+              "нет",
+              "да, класс 8 (UN 1823 / 1824)"
+            ],
+            [
+              "Основное применение",
+              "стекло, химия, моющие средства, водоподготовка",
+              "бытовая химия",
+              "пищевая промышленность",
+              "глинозём, целлюлоза, мыло, химический синтез"
+            ]
+          ]
+        }
+      },
+      {
+        "note": "Кристаллическая сода содержит около 37% карбоната натрия — остальное составляет вода. Для промышленности выгоднее покупать кальцинированную (безводную) соду."
+      },
+      {
+        "img": "/images/blog/soda-ash/soda-ash-powder.jpg",
+        "alt": "Белый порошок кальцинированной соды",
+        "caption": "Кальцинированная сода — белый порошок без кристаллизационной воды.",
+        "credit": "Фото: Geoprofi Lars, CC BY-SA 4.0",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Natriumcarbonat_01.jpg"
+      },
+      {
+        "h2": "Как их получают"
+      },
+      {
+        "ul": [
+          "Каустическую соду производят электролизом раствора поваренной соли; одновременно образуются хлор и водород. Продукт выпускают в виде раствора (обычно 46–50%), чешуек или гранул.",
+          "Кальцинированную соду получают аммиачным методом Сольве, комбинированным методом или из природной соды (троны). Подробнее — в отдельной статье о производстве соды."
+        ]
+      },
+      {
+        "h2": "Можно ли заменить одно другим"
+      },
+      "В части процессов — например, при нейтрализации кислых стоков или корректировке pH — кальцинированная сода может частично заменять каустик: она дешевле и безопаснее в обращении. Но при этом выделяется углекислый газ, расход реагента другой, а конечный pH ниже. Во многих процессах — производстве глинозёма, мыла, ряде химических синтезов — замена невозможна.",
+      {
+        "note": "Решение о замене принимает технолог после пересчёта расхода и проверки процесса. Название продукта в запросе должно совпадать с технологической документацией."
+      },
+      {
+        "h2": "Как правильно указать продукт в запросе"
+      },
+      {
+        "ul": [
+          "химическое название и формулу: «карбонат натрия (Na₂CO₃), кальцинированная сода»;",
+          "форму: лёгкая или тяжёлая;",
+          "требуемые показатели и стандарт;",
+          "назначение — это помогает исключить путаницу с каустической содой."
+        ]
+      },
+      "Qinghai Zhenhuida поставляет кальцинированную соду. Каустическую соду в текущем каталоге мы не предлагаем."
+    ],
+    "en": [
+      {
+        "summary": [
+          "Caustic soda is sodium hydroxide (NaOH), a corrosive alkali. Soda ash is sodium carbonate (Na₂CO₃), a milder base.",
+          "Caustic soda causes chemical burns and ships as class 8 dangerous goods; soda ash is not dangerous goods.",
+          "They are made differently and used in different processes; one can replace the other only in some cases.",
+          "Washing soda (Na₂CO₃·10H₂O) and baking soda (NaHCO₃) are different products again."
+        ]
+      },
+      "In procurement, \"soda\" can mean at least four different substances. A wrong name leads to a wrong offer — and sometimes to transport problems: caustic soda is dangerous goods, soda ash is not. Here is a short comparison to help you word your request correctly.",
+      {
+        "h2": "Four kinds of soda compared"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Soda ash",
+            "Washing soda",
+            "Baking soda",
+            "Caustic soda"
+          ],
+          "rows": [
+            [
+              "Substance",
+              "sodium carbonate",
+              "sodium carbonate decahydrate",
+              "sodium bicarbonate",
+              "sodium hydroxide"
+            ],
+            [
+              "Formula",
+              "Na₂CO₃",
+              "Na₂CO₃·10H₂O",
+              "NaHCO₃",
+              "NaOH"
+            ],
+            [
+              "Other names",
+              "soda, calcined soda",
+              "soda crystals",
+              "bicarbonate of soda",
+              "lye, caustic"
+            ],
+            [
+              "Alkalinity (1% solution)",
+              "strong, pH ≈ 11",
+              "as soda ash, but less active substance",
+              "weak, pH ≈ 8",
+              "very strong, pH ≈ 13"
+            ],
+            [
+              "Hazard",
+              "eye irritant",
+              "eye irritant",
+              "practically harmless",
+              "causes chemical burns"
+            ],
+            [
+              "Dangerous goods",
+              "no",
+              "no",
+              "no",
+              "yes, class 8 (UN 1823 / 1824)"
+            ],
+            [
+              "Main uses",
+              "glass, chemicals, detergents, water treatment",
+              "household cleaning",
+              "food industry",
+              "alumina, pulp, soap, chemical synthesis"
+            ]
+          ]
+        }
+      },
+      {
+        "note": "Washing soda contains about 37% sodium carbonate — the rest is water. For industry, anhydrous soda ash is the economical choice."
+      },
+      {
+        "img": "/images/blog/soda-ash/soda-ash-powder.jpg",
+        "alt": "White soda ash powder",
+        "caption": "Soda ash is a white powder without water of crystallisation.",
+        "credit": "Photo: Geoprofi Lars, CC BY-SA 4.0",
+        "creditUrl": "https://commons.wikimedia.org/wiki/File:Natriumcarbonat_01.jpg"
+      },
+      {
+        "h2": "How they are made"
+      },
+      {
+        "ul": [
+          "Caustic soda is produced by electrolysis of salt brine, which also yields chlorine and hydrogen. It is supplied as a solution (usually 46–50%), flakes or pearls.",
+          "Soda ash is made by the Solvay ammonia-soda process, the combined process or from natural soda (trona). See our separate article on soda ash production."
+        ]
+      },
+      {
+        "h2": "Can one replace the other?"
+      },
+      "In some processes — such as neutralising acidic effluent or adjusting pH — soda ash can partly replace caustic soda: it is cheaper and safer to handle. But it releases carbon dioxide, the dosage differs and the final pH is lower. In many processes — alumina, soap, a number of chemical syntheses — substitution is not possible.",
+      {
+        "note": "A process engineer decides on substitution after recalculating dosage and checking the process. The product name in your request should match your process documentation."
+      },
+      {
+        "h2": "How to name the product in a request"
+      },
+      {
+        "ul": [
+          "chemical name and formula: \"sodium carbonate (Na₂CO₃), soda ash\";",
+          "form: light or dense;",
+          "required values and standard;",
+          "intended use — it helps rule out confusion with caustic soda."
+        ]
+      },
+      "Qinghai Zhenhuida supplies soda ash. Caustic soda is not in our current catalogue."
+    ]
+  },
+  "faq": [
+    {
+      "q": {
+        "ru": "Каустическая сода и кальцинированная — это одно и то же?",
+        "en": "Are caustic soda and soda ash the same thing?"
+      },
+      "a": {
+        "ru": "Нет. Каустическая сода — гидроксид натрия (NaOH), кальцинированная — карбонат натрия (Na₂CO₃). Это разные вещества с разной щёлочностью, опасностью и применением.",
+        "en": "No. Caustic soda is sodium hydroxide (NaOH); soda ash is sodium carbonate (Na₂CO₃). They differ in alkalinity, hazard and use."
+      }
+    },
+    {
+      "q": {
+        "ru": "Какая сода опаснее?",
+        "en": "Which is more hazardous?"
+      },
+      "a": {
+        "ru": "Каустическая: она вызывает химические ожоги кожи и глаз и перевозится как опасный груз класса 8. Кальцинированная сода раздражает глаза, но опасным грузом не является.",
+        "en": "Caustic soda: it causes chemical burns to skin and eyes and ships as class 8 dangerous goods. Soda ash irritates the eyes but is not dangerous goods."
+      }
+    },
+    {
+      "q": {
+        "ru": "Можно ли заменить каустик кальцинированной содой?",
+        "en": "Can soda ash replace caustic soda?"
+      },
+      "a": {
+        "ru": "Только в отдельных процессах, например при нейтрализации или корректировке pH, и после пересчёта расхода технологом. Во многих производствах замена невозможна.",
+        "en": "Only in some processes, such as neutralisation or pH adjustment, and after a process engineer recalculates dosage. In many processes it is not possible."
+      }
+    },
+    {
+      "q": {
+        "ru": "Что такое кристаллическая сода?",
+        "en": "What is washing soda?"
+      },
+      "a": {
+        "ru": "Это декагидрат карбоната натрия (Na₂CO₃·10H₂O). Около 63% его массы составляет вода, поэтому для промышленности обычно закупают безводную кальцинированную соду.",
+        "en": "It is sodium carbonate decahydrate (Na₂CO₃·10H₂O). About 63% of its mass is water, so industry usually buys anhydrous soda ash."
+      }
+    }
+  ]
+}

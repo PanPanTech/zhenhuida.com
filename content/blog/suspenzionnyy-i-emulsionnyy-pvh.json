@@ -1,0 +1,291 @@
+{
+  "slug": "suspenzionnyy-i-emulsionnyy-pvh",
+  "date": "2026-10-27",
+  "image": "/images/blog/pvc/pvc-sg5-bag-25kg.jpg",
+  "imageFit": "contain",
+  "category": {
+    "ru": "Продукция",
+    "en": "Products"
+  },
+  "title": {
+    "ru": "Суспензионный и эмульсионный ПВХ: в чём разница и какую смолу выбрать",
+    "en": "Suspension vs emulsion PVC: the difference and which resin to choose"
+  },
+  "description": {
+    "ru": "Чем суспензионная смола ПВХ (S-PVC) отличается от эмульсионной (пастовой, E-PVC): способ получения, частицы, переработка, изделия и маркировка.",
+    "en": "How suspension PVC resin (S-PVC) differs from emulsion (paste, E-PVC) resin: production, particles, processing, products and grading."
+  },
+  "products": [
+    "pvc-resin"
+  ],
+  "body": {
+    "ru": [
+      {
+        "summary": [
+          "Суспензионный ПВХ — основная смола для экструзии и литья: трубы, профили, кабели, листы.",
+          "Эмульсионный (пастовый) ПВХ имеет очень мелкие частицы и с пластификатором образует пасту — пластизоль.",
+          "Смолы не взаимозаменяемы: они перерабатываются на разном оборудовании.",
+          "В запросе указывайте тип смолы, марку и изделие."
+        ]
+      },
+      "В запросах часто пишут просто «ПВХ», но для переработчика это два разных продукта. Суспензионную смолу перерабатывают в расплаве — экструзией и литьём. Эмульсионную смешивают с пластификатором в жидкую пасту, которую наносят, разливают или формуют, а затем желируют нагревом.",
+      {
+        "h2": "Главные различия"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Суспензионный (S-PVC)",
+            "Эмульсионный (E-PVC, пастовый)"
+          ],
+          "rows": [
+            [
+              "Как получают",
+              "капли винилхлорида полимеризуют в воде со стабилизатором суспензии",
+              "винилхлорид полимеризуют в эмульсии с эмульгатором, латекс высушивают распылением"
+            ],
+            [
+              "Частицы",
+              "пористые зёрна ~100–150 мкм",
+              "очень мелкие первичные частицы, агломераты размером в десятки мкм"
+            ],
+            [
+              "Доля в производстве",
+              "большая часть мирового выпуска",
+              "заметно меньше"
+            ],
+            [
+              "Переработка",
+              "экструзия, литьё под давлением, каландрование",
+              "пасты (пластизоли): нанесение, макание, ротоформование, распыление"
+            ],
+            [
+              "Типичные изделия",
+              "трубы, профили, кабели, листы, плёнки",
+              "искусственная кожа, обои, напольные покрытия, перчатки, покрытия тканей"
+            ],
+            [
+              "Маркировка в Китае",
+              "SG-1…SG-8 (GB/T 5761)",
+              "пастовые марки по собственным спецификациям производителей"
+            ],
+            [
+              "Цена",
+              "ниже",
+              "обычно выше"
+            ]
+          ]
+        }
+      },
+      {
+        "img": "/images/blog/pvc/pvc-sg5-bag-25kg.jpg",
+        "narrow": true,
+        "alt": "Мешок суспензионной смолы ПВХ общего назначения SG-5",
+        "caption": "На мешке указано «悬浮法通用型» — суспензионная смола общего назначения, марка SG-5."
+      },
+      {
+        "h2": "Суспензионный ПВХ: когда выбирать"
+      },
+      {
+        "apps": [
+          {
+            "icon": "pipe",
+            "title": "Трубы и фитинги",
+            "text": "Жёсткие трубы для водопровода и канализации — обычно SG-5."
+          },
+          {
+            "icon": "metal",
+            "title": "Профили и листы",
+            "text": "Оконные профили, панели, жёсткие листы."
+          },
+          {
+            "icon": "cable",
+            "title": "Кабельные пластикаты",
+            "text": "С пластификатором — марки с высоким K-value."
+          },
+          {
+            "icon": "glass",
+            "title": "Плёнки",
+            "text": "Каландрованные жёсткие и мягкие плёнки."
+          }
+        ]
+      },
+      {
+        "h2": "Эмульсионный ПВХ: когда выбирать"
+      },
+      "Если технология предполагает жидкую пасту — нанесение на ткань, разлив, макание форм — нужна пастовая смола. Её частицы равномерно распределяются в пластификаторе и при нагреве сплавляются в однородную плёнку. Из суспензионной смолы стабильную пасту не получить.",
+      {
+        "note": "Существует и третий вид — массовый (блочный) ПВХ, который получают без воды и эмульгаторов. Его используют для прозрачных изделий, но объём рынка небольшой."
+      },
+      {
+        "h2": "Что указать в запросе"
+      },
+      {
+        "ul": [
+          "тип смолы: суспензионная или эмульсионная (пастовая);",
+          "марку или требуемый K-value;",
+          "изделие и способ переработки;",
+          "ключевые показатели: летучие вещества, насыпная плотность, гранулометрия, белизна, остаточный винилхлорид; для пастовой смолы — вязкость пасты;",
+          "объём, упаковку и место доставки."
+        ]
+      },
+      "Qinghai Zhenhuida поставляет суспензионную смолу ПВХ. Возможность поставки эмульсионной смолы проверяется по отдельному запросу."
+    ],
+    "en": [
+      {
+        "summary": [
+          "Suspension PVC is the main resin for extrusion and moulding: pipes, profiles, cables, sheet.",
+          "Emulsion (paste) PVC has very fine particles and forms a paste — plastisol — with plasticiser.",
+          "The resins are not interchangeable: they run on different equipment.",
+          "State the resin type, grade and product in your inquiry."
+        ]
+      },
+      "Requests often just say \"PVC\", but for a processor these are two different products. Suspension resin is processed as a melt — by extrusion and moulding. Emulsion resin is mixed with plasticiser into a liquid paste that is spread, cast or moulded and then gelled by heat.",
+      {
+        "h2": "Key differences"
+      },
+      {
+        "table": {
+          "head": [
+            "",
+            "Suspension (S-PVC)",
+            "Emulsion (E-PVC, paste)"
+          ],
+          "rows": [
+            [
+              "How it is made",
+              "vinyl chloride droplets polymerised in water with a suspending agent",
+              "vinyl chloride polymerised in emulsion with an emulsifier; latex is spray-dried"
+            ],
+            [
+              "Particles",
+              "porous grains ~100–150 µm",
+              "very fine primary particles, agglomerates of tens of µm"
+            ],
+            [
+              "Share of production",
+              "most of world output",
+              "much smaller"
+            ],
+            [
+              "Processing",
+              "extrusion, injection moulding, calendering",
+              "pastes (plastisols): spreading, dipping, rotational moulding, spraying"
+            ],
+            [
+              "Typical products",
+              "pipes, profiles, cables, sheet, film",
+              "artificial leather, wallpaper, flooring, gloves, coated fabrics"
+            ],
+            [
+              "Grading in China",
+              "SG-1 to SG-8 (GB/T 5761)",
+              "paste grades per producers' own specifications"
+            ],
+            [
+              "Price",
+              "lower",
+              "usually higher"
+            ]
+          ]
+        }
+      },
+      {
+        "img": "/images/blog/pvc/pvc-sg5-bag-25kg.jpg",
+        "narrow": true,
+        "alt": "Bag of general-purpose SG-5 suspension PVC resin",
+        "caption": "The bag reads \"悬浮法通用型\" — general-purpose suspension resin, grade SG-5."
+      },
+      {
+        "h2": "When to choose suspension PVC"
+      },
+      {
+        "apps": [
+          {
+            "icon": "pipe",
+            "title": "Pipes and fittings",
+            "text": "Rigid water and sewer pipes — usually SG-5."
+          },
+          {
+            "icon": "metal",
+            "title": "Profiles and sheet",
+            "text": "Window profiles, panels, rigid sheet."
+          },
+          {
+            "icon": "cable",
+            "title": "Cable compounds",
+            "text": "With plasticiser — high-K grades."
+          },
+          {
+            "icon": "glass",
+            "title": "Film",
+            "text": "Calendered rigid and flexible film."
+          }
+        ]
+      },
+      {
+        "h2": "When to choose emulsion PVC"
+      },
+      "If your process uses a liquid paste — coating fabric, casting, dip moulding — you need paste resin. Its particles disperse evenly in plasticiser and fuse into a uniform film on heating. Suspension resin cannot make a stable paste.",
+      {
+        "note": "There is also a third type — bulk (mass) PVC, made without water or emulsifiers. It is used for clear products, but the market is small."
+      },
+      {
+        "h2": "What to include in your inquiry"
+      },
+      {
+        "ul": [
+          "resin type: suspension or emulsion (paste);",
+          "grade or required K-value;",
+          "product and processing method;",
+          "key values: volatiles, bulk density, particle size, whiteness, residual vinyl chloride; for paste resin — paste viscosity;",
+          "quantity, packaging and delivery point."
+        ]
+      },
+      "Qinghai Zhenhuida supplies suspension PVC resin. Emulsion resin availability is checked on a separate request."
+    ]
+  },
+  "faq": [
+    {
+      "q": {
+        "ru": "Можно ли заменить эмульсионный ПВХ суспензионным?",
+        "en": "Can suspension PVC replace emulsion PVC?"
+      },
+      "a": {
+        "ru": "Нет. Из суспензионной смолы нельзя получить стабильную пасту, а эмульсионная не подходит для экструзии труб и профилей. Это разные продукты для разного оборудования.",
+        "en": "No. Suspension resin cannot form a stable paste, and emulsion resin is not suited to extruding pipes and profiles. They are different products for different equipment."
+      }
+    },
+    {
+      "q": {
+        "ru": "Что такое пластизоль?",
+        "en": "What is a plastisol?"
+      },
+      "a": {
+        "ru": "Паста из эмульсионной смолы ПВХ и пластификатора. При нагреве она желируется и превращается в эластичный материал — так делают искусственную кожу, обои, покрытия.",
+        "en": "A paste of emulsion PVC resin and plasticiser. When heated it gels into a flexible material — used for artificial leather, wallpaper and coatings."
+      }
+    },
+    {
+      "q": {
+        "ru": "Какой ПВХ нужен для труб?",
+        "en": "Which PVC is used for pipes?"
+      },
+      "a": {
+        "ru": "Суспензионный, как правило марки SG-5 с K-value около 66–68.",
+        "en": "Suspension PVC, usually grade SG-5 with a K-value around 66–68."
+      }
+    },
+    {
+      "q": {
+        "ru": "Почему эмульсионный ПВХ дороже?",
+        "en": "Why is emulsion PVC more expensive?"
+      },
+      "a": {
+        "ru": "Процесс сложнее: нужны эмульгаторы и распылительная сушка латекса, а объёмы выпуска меньше.",
+        "en": "The process is more complex — emulsifiers and spray-drying of latex are needed — and production volumes are smaller."
+      }
+    }
+  ]
+}

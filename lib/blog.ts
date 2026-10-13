@@ -5,7 +5,7 @@ import type {Lang} from './i18n';
 // Blog posts live in content/blog/<slug>.json (see content/blog/_template.json).
 // Each text field holds one entry per language; a missing language falls back to English.
 // Body blocks (per language):
-//   "text"                                  paragraph
+//   "text"                                  paragraph (**bold** supported in paragraphs, lists, summary, note)
 //   {"h2": "..."}                           section heading (listed in the table of contents)
 //   {"ul": ["...", "..."]}                  bullet list
 //   {"summary": ["...", "..."]}             "key points" box
@@ -17,6 +17,8 @@ import type {Lang} from './i18n';
 //   {"steps": [{"title": "...", "text": "..."}, ...]}            numbered process / route
 // Optional "faq": [{"q": {...}, "a": {...}}] renders a Q&A section with FAQPage structured data.
 // "draft": true keeps a post off the site; build with SHOW_DRAFTS=1 to preview drafts locally.
+// Scheduled publishing: a post whose "date" is later than today (Kazakhstan time, Asia/Almaty) is left out
+// of the build; the daily scheduled deploy publishes it on that date. PUBLISH_DATE=YYYY-MM-DD overrides "today".
 // Revisions of live posts go in content/blog/drafts/<slug>.json: the live version stays published,
 // SHOW_DRAFTS=1 previews the revision in its place; publish by moving the file up to content/blog/.
 export type Block =
@@ -49,13 +51,15 @@ export type Post = {
 const dir = nodePath.join(process.cwd(), 'content', 'blog');
 const draftDir = nodePath.join(dir, 'drafts');
 const showDrafts = process.env.SHOW_DRAFTS === '1';
+const today = process.env.PUBLISH_DATE || new Intl.DateTimeFormat('en-CA', {timeZone: 'Asia/Almaty'}).format(new Date());
+const isLive = (p: Post) => !p.draft && p.date <= today;
 
 const readDir = (d: string): Post[] => fs.existsSync(d)
   ? fs.readdirSync(d).filter(f => f.endsWith('.json') && !f.startsWith('_')).map(f => JSON.parse(fs.readFileSync(nodePath.join(d, f), 'utf8')) as Post)
   : [];
 
 export function getPosts(): Post[] {
-  const posts = new Map(readDir(dir).filter(p => showDrafts || !p.draft).map(p => [p.slug, p]));
+  const posts = new Map(readDir(dir).filter(p => showDrafts || isLive(p)).map(p => [p.slug, p]));
   if (showDrafts) for (const p of readDir(draftDir)) posts.set(p.slug, p);
   return [...posts.values()].sort((a, b) => b.date.localeCompare(a.date));
 }

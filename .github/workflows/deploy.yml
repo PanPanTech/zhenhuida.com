@@ -4,6 +4,9 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Daily rebuild at 00:05 Kazakhstan time (UTC+5) so posts with today's date go live (scheduled publishing).
+  schedule:
+    - cron: '5 19 * * *'
   workflow_dispatch:
 
 permissions:
