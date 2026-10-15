@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2026-10-14",
+    "pvc": {
+      "trend": "down",
+      "ru": {
+        "headline": "Слабое боковое движение",
+        "level": "Основной фьючерсный контракт на ПВХ (Даляньская товарная биржа) — около 4850–4870 юаней/т; 13–15 октября внутридневные снижения на 1–2%.",
+        "points": [
+          "Предложение остаётся ограниченным: загрузка части производств снижена.",
+          "Внутренний спрос в Китае ожидается умеренным, рост к прошлому году ограничен.",
+          "Базис и разница между контрактами низкие — у рынка мало импульса для роста."
+        ],
+        "buyer": "Цены держатся на низком уровне без признаков резкого разворота. Для покупателей в Центральной Азии это спокойное окно, чтобы согласовать цену на ближайшие поставки и не переплачивать за срочность."
+      },
+      "en": {
+        "headline": "Soft sideways trading",
+        "level": "The main PVC futures contract (Dalian Commodity Exchange) is around 4,850–4,870 yuan/t, with intraday drops of 1–2% on 13–15 October.",
+        "points": [
+          "Supply remains limited, with some plants running at reduced rates.",
+          "Chinese domestic demand is expected to be moderate, with limited year-on-year growth.",
+          "Basis and calendar spreads are low — the market lacks upward momentum."
+        ],
+        "buyer": "Prices are holding at low levels with no sign of a sharp reversal. For Central Asian buyers this is a calm window to agree prices for near-term deliveries without paying for urgency."
+      }
+    },
+    "soda": {
+      "trend": "flat",
+      "ru": {
+        "headline": "Диапазон при высоких запасах",
+        "level": "Основной фьючерсный контракт на соду (Чжэнчжоуская товарная биржа) — около 1000 юаней/т; спот в Китае — около 1070 юаней/т (на 9 октября).",
+        "points": [
+          "Запасы у производителей — около 1,78 млн т: +1,1% за неделю и +11,2% к прошлому году.",
+          "Спрос стекольной отрасли слабый; ожидаются остановки части линий на холодный ремонт.",
+          "Аналитики оценивают рынок как диапазонный, без устойчивого тренда."
+        ],
+        "buyer": "Избыточные запасы на стороне производителей усиливают переговорную позицию покупателя. Для регулярных поставок разумно обсуждать фиксированную цену на несколько партий вперёд."
+      },
+      "en": {
+        "headline": "Range-bound on high stocks",
+        "level": "The main soda ash futures contract (Zhengzhou Commodity Exchange) is around 1,000 yuan/t; Chinese spot is about 1,070 yuan/t (as of 9 October).",
+        "points": [
+          "Producer inventories are about 1.78 million t: +1.1% week on week and +11.2% year on year.",
+          "Glass-industry demand is weak; some lines are expected to stop for cold repair.",
+          "Analysts see the market as range-bound without a sustained trend."
+        ],
+        "buyer": "Ample producer stocks strengthen the buyer's negotiating position. For regular supply, it is reasonable to discuss a fixed price for several lots ahead."
+      }
+    },
+    "sources": [
+      {"title": "Sina Finance: PVC, основной контракт, 15.10.2026", "url": "https://k.sina.cn/article_5953740931_162dee083067041xv6.html"},
+      {"title": "Everbright Futures, обзор энергохимии 15.10.2026", "url": "https://k.sina.cn/article_5952915720_162d249080670500s4.html"},
+      {"title": "100ppi: сода, спот и фьючерсы", "url": "https://www.100ppi.com/sf/737.html"},
+      {"title": "Tianfeng Futures: сода и стекло, запасы", "url": "https://k.sina.cn/article_5953740931_162dee083067041vfg.html"}
+    ]
+  }
+]
