@@ -1,6 +1,29 @@
-import {languages,defaultLang} from '@/lib/i18n';
-import {origin} from '@/lib/catalog';
-// Static root page: forwards to the visitor's language (Russian by default), with plain links as a fallback.
-export const metadata={title:'Qinghai Zhenhuida',alternates:{canonical:`${origin}/${defaultLang}/`},robots:{index:false,follow:true}};
-const codes=JSON.stringify(languages.map(l=>l.code));
-export default function Index(){return <main style={{padding:40,fontFamily:'Arial, sans-serif'}}><script dangerouslySetInnerHTML={{__html:`(function(){var c=${codes},l=(navigator.language||'').slice(0,2).toLowerCase();location.replace('/'+(c.indexOf(l)>-1?l:'${defaultLang}')+'/')})()`}}/><p>Qinghai Zhenhuida</p>{languages.map(l=><p key={l.code}><a href={`/${l.code}/`}>{l.name}</a></p>)}</main>}
+import type { Metadata } from "next";
+import { permanentRedirect } from "next/navigation";
+import { origin } from "@/lib/catalog";
+import { defaultLang } from "@/lib/i18n";
+
+// GitHub Pages serves this static export and cannot set a per-path status code.
+// `next dev` uses the App Router permanent redirect (HTTP 308). The exported `/`
+// document is an instant meta refresh to the default locale, which crawlers treat
+// as a permanent redirect. It is not a language picker and it is not `noindex`.
+const destination = `/${defaultLang}/`;
+
+export const metadata: Metadata = {
+  title: "Qinghai Zhenhuida",
+  alternates: { canonical: `${origin}${destination}` },
+};
+
+export default function Index() {
+  if (process.env.NODE_ENV === "development") permanentRedirect(destination);
+  return (
+    <html lang={defaultLang}>
+      <body>
+        <meta httpEquiv="refresh" content={`0;url=${destination}`} />
+        <p>
+          <a href={destination}>Qinghai Zhenhuida</a>
+        </p>
+      </body>
+    </html>
+  );
+}

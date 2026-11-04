@@ -7,7 +7,7 @@ export const contact = {email:'panda@panpantechnology.com',addressRu:'Цинха
 // Shared PanPanTech inquiry service: Zoho CRM + Feishu Bitable + Feishu group notification.
 export const inquiryEndpoint = 'https://inquiry.panpantechnology.com/api/inquiries';
 // Search console ownership codes: paste the content="..." value of each meta tag (leave empty if unused).
-export const siteVerification = {google:'', yandex:''};
+export const siteVerification = {google:'', yandex:'1c8d9c6752dceeb9'};
 export type Product = { id:string;formula:string;ru:string;en:string;grade:[string,string];intro:[string,string];applications:[string[],string[]];specs:[string,string,string][];status?:'review'|'secondary' };
 export const products:Product[]=[
  {id:'sodium-chlorate',formula:'NaClO₃',ru:'Хлорат натрия',en:'Sodium chlorate',grade:['Промышленный класс · 99,5%','Industrial grade · 99.5%'],intro:['Промышленное сырьё для целлюлозно-бумажных предприятий, водоподготовки и химической промышленности. Подбор партии — по требованиям покупателя.','Industrial raw material for pulp and paper, water treatment and chemical processing. Each inquiry is assessed against the buyer’s requirements.'],applications:[['Целлюлоза и бумага','Водоподготовка','Химическая промышленность'],['Pulp & paper','Water treatment','Chemical processing']],specs:[['Содержание (сухая основа)','Assay, dry basis','≥ 99.5%'],['Хлориды (в пересчёте на Cl)','Chlorides, as Cl','≤ 0.15%'],['Влага','Moisture','≤ 0.10%']]},
